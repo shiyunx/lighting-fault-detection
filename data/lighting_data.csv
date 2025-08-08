@@ -1,301 +1,260 @@
-light_id,location_name,fault_type,timestamp,severity_level,fault_status,maintenance_cost,brightness_level,power_consumption
-SL1640,Jurong West,Bulb Failure,2020-01-01 00:58:53.364208,High,Reported,373.37,34,148.24
-SL1472,Pasir Ris,Power Outage,2020-01-01 04:07:06.047574,Critical,Deferred,87.31,38,89.54
-SL2120,Toa Payoh,Dimming Issue,2020-01-06 21:04:21.733416,Medium,Resolved,445.11,97,60.37
-SL2650,Margaret Drive,Wiring Fault,2020-01-10 01:09:42.920461,Critical,Reported,320.02,35,102.28
-SL0933,Canberra,Controller Malfunction,2020-01-10 04:58:01.530408,Critical,In Progress,457.27,38,16.94
-SL1084,Pasir Ris,Wiring Fault,2020-01-10 17:28:40.488708,Medium,Reported,305.02,29,33.93
-SL1889,Orchard Road,Wiring Fault,2020-01-13 13:46:28.543320,Medium,Reported,208.99,36,89.22
-SL0436,Outram Park,Dimming Issue,2020-01-13 14:16:39.310130,High,Deferred,217.19,75,119.01
-SL1725,Outram Park,Wiring Fault,2020-01-14 05:19:50.490135,High,In Progress,250.22,63,100.49
-SL2997,Toa Payoh,Overheating,2020-01-18 00:12:28.883792,High,Deferred,116.77,12,134.18
-SL2945,Bugis Junction,Sensor Malfunction,2020-01-21 12:50:15.914173,High,Deferred,360.71,84,110.05
-SL0632,Bishan,Overheating,2020-01-27 00:01:31.038981,Low,Deferred,,24,117.31
-SL2937,Pasir Ris,Physical Damage,2020-01-28 00:04:03.661480,Medium,Deferred,202.91,31,40.42
-SL2260,Margaret Drive,Sensor Malfunction,2020-01-28 15:08:34.082860,Low,Resolved,481.24,82,79.95
-SL2795,Margaret Drive,Overheating,2020-01-28 23:05:24.282035,High,Resolved,175.51,67,31.9
-SL2755,Bugis Junction,Dimming Issue,2020-01-29 14:54:39.932210,Critical,Reported,274.72,46,147.21
-SL1355,Toa Payoh,Communication Error,2020-01-29 23:08:33.544705,High,Resolved,171.88,69,48.0
-SL2901,Chinatown,Communication Error,2020-02-03 04:33:46.671318,Low,Deferred,397.05,66,79.06
-SL1302,Canberra,Controller Malfunction,2020-02-06 18:33:32.836503,Critical,In Progress,272.61,90,79.45
-SL0341,Toa Payoh,Overheating,2020-02-07 00:00:10.422439,High,Resolved,,45,118.83
-SL2785,Canberra,Sensor Malfunction,2020-02-07 15:47:00.664084,Critical,Resolved,161.69,87,76.18
-SL0987,Pasir Ris,Overheating,2020-02-08 23:49:10.028130,Medium,In Progress,331.09,85,18.76
-SL2488,Toa Payoh,Communication Error,2020-02-12 11:15:59.678277,Low,Resolved,118.69,54,78.64
-SL1184,Jurong West,Physical Damage,2020-02-12 16:50:57.379139,Critical,Resolved,332.46,44,98.21
-SL0126,Pasir Ris,Controller Malfunction,2020-02-13 05:22:37.470892,Critical,In Progress,456.93,33,86.38
-SL1423,Canberra,Bulb Failure,2020-02-13 16:18:26.497160,Medium,In Progress,69.31,43,14.73
-SL2012,Chinatown,Controller Malfunction,2020-02-16 14:47:29.305669,High,Deferred,205.03,82,128.92
-SL1726,Outram Park,Physical Damage,2020-02-16 19:45:47.811819,High,Resolved,127.71,97,117.65
-SL1746,Margaret Drive,Overheating,2020-02-17 03:49:56.298883,Medium,Deferred,493.56,83,97.33
-SL0804,Pasir Ris,Wiring Fault,2020-02-19 10:55:59.706932,Critical,Resolved,181.41,68,138.97
-SL2998,Margaret Drive,Power Outage,2020-02-21 00:41:34.965589,Low,Resolved,363.1,51,12.44
-SL2039,Margaret Drive,Overheating,2020-02-23 14:40:04.950877,Medium,In Progress,61.83,58,34.87
-SL0088,Bishan,Physical Damage,2020-02-25 03:05:54.166652,High,Deferred,82.12,83,34.7
-SL2248,Bugis Junction,Overheating,2020-02-25 07:40:18.269371,Critical,Reported,157.32,27,41.52
-SL2943,Canberra,Communication Error,2020-02-28 05:36:25.075272,Medium,Reported,447.33,46,105.53
-SL2601,Canberra,Sensor Malfunction,2020-02-28 07:24:56.234854,High,In Progress,200.4,76,94.66
-SL1023,Chinatown,Bulb Failure,2020-02-29 00:23:39.488375,Low,In Progress,470.9,77,57.35
-SL1079,Bugis Junction,Overheating,2020-02-29 16:10:42.083872,Low,In Progress,85.76,52,33.65
-SL2612,Margaret Drive,Wiring Fault,2020-03-01 07:55:17.305298,High,In Progress,250.36,36,58.7
-SL2199,Outram Park,Bulb Failure,2020-03-02 13:33:31.015508,High,Reported,427.61,87,142.23
-SL1527,Orchard Road,Dimming Issue,2020-03-04 19:05:14.579884,Medium,Deferred,310.12,49,73.09
-SL2735,Margaret Drive,Physical Damage,2020-03-05 01:14:09.974343,Low,In Progress,361.47,54,121.91
-SL2110,Canberra,Wiring Fault,2020-03-05 15:43:48.442414,High,Deferred,,37,61.94
-SL0325,Chinatown,Sensor Malfunction,2020-03-06 08:18:29.410192,Critical,Deferred,66.07,23,49.2
-SL0795,Bishan,Physical Damage,2020-03-07 16:12:55.236521,Critical,In Progress,447.76,16,112.09
-SL1251,Bugis Junction,Communication Error,2020-03-12 06:14:53.093404,Medium,In Progress,,30,110.0
-SL0385,Chinatown,Power Outage,2020-03-15 16:29:41.214092,Medium,Reported,182.18,90,93.41
-SL2864,Chinatown,Wiring Fault,2020-03-15 22:28:50.580956,Critical,Resolved,293.72,53,38.48
-SL0123,Chinatown,Controller Malfunction,2020-03-16 08:51:35.344164,Low,In Progress,194.38,14,127.23
-SL1142,Jurong West,Bulb Failure,2020-03-16 15:03:07.058463,Low,Resolved,129.53,99,10.72
-SL2881,Orchard Road,Wiring Fault,2020-03-18 09:10:27.435346,Low,In Progress,,71,56.93
-SL2523,Canberra,Dimming Issue,2020-03-18 11:27:18.466928,High,Reported,,95,114.47
-SL1183,Outram Park,Sensor Malfunction,2020-03-19 21:30:21.057932,Medium,In Progress,323.29,37,78.07
-SL1747,Orchard Road,Power Outage,2020-03-22 16:08:18.481984,High,Reported,380.37,3,63.36
-SL0410,Toa Payoh,Bulb Failure,2020-03-24 05:53:53.430275,High,In Progress,167.48,91,35.05
-SL1566,Chinatown,Physical Damage,2020-03-24 09:22:33.509901,Critical,Reported,71.68,80,12.05
-SL1360,Chinatown,Controller Malfunction,2020-03-24 16:23:20.139180,Low,Reported,111.14,96,120.66
-SL1962,Outram Park,Controller Malfunction,2020-03-25 14:12:02.904139,Critical,In Progress,285.91,6,21.94
-SL0503,Bishan,Overheating,2020-03-25 16:54:05.241987,Low,Resolved,196.38,64,135.13
-SL1882,Toa Payoh,Bulb Failure,2020-03-26 16:09:11.311485,Critical,In Progress,259.82,33,14.86
-SL2289,Toa Payoh,Power Outage,2020-03-29 11:59:34.969539,Medium,In Progress,126.79,82,107.63
-SL2725,Pasir Ris,Sensor Malfunction,2020-03-30 01:19:04.544079,Low,Reported,286.35,71,140.97
-SL2354,Margaret Drive,Physical Damage,2020-03-31 10:48:13.544347,Critical,Reported,215.1,62,52.77
-SL2595,Chinatown,Power Outage,2020-04-05 15:26:35.649179,Critical,Reported,373.23,80,90.62
-SL2818,Orchard Road,Overheating,2020-04-07 11:22:08.582703,High,In Progress,73.22,34,32.81
-SL0618,Bishan,Sensor Malfunction,2020-04-09 02:12:52.825487,Medium,Deferred,173.9,18,22.75
-SL1775,Canberra,Bulb Failure,2020-04-10 05:21:36.566362,Critical,In Progress,69.46,32,147.58
-SL2877,Canberra,Sensor Malfunction,2020-04-11 12:29:14.578172,Medium,In Progress,258.24,77,126.03
-SL1155,Toa Payoh,Physical Damage,2020-04-12 09:06:51.860455,High,Deferred,85.74,89,138.41
-SL2352,Margaret Drive,Bulb Failure,2020-04-13 02:34:06.036101,Low,Deferred,487.7,23,34.25
-SL2393,Canberra,Dimming Issue,2020-04-16 03:47:00.944305,High,In Progress,166.95,22,133.63
-SL2314,Outram Park,Physical Damage,2020-04-17 16:09:11.928000,Critical,Deferred,235.55,74,14.66
-SL2579,Orchard Road,Wiring Fault,2020-04-17 18:11:22.242540,Low,Resolved,499.69,20,25.44
-SL1341,Toa Payoh,Overheating,2020-04-21 07:15:21.925191,Critical,Resolved,231.25,1,16.34
-SL1495,Margaret Drive,Wiring Fault,2020-04-22 18:19:45.679862,High,Resolved,99.4,98,133.54
-SL2336,Bugis Junction,Bulb Failure,2020-04-22 19:08:09.476174,Medium,Deferred,229.91,26,34.96
-SL1751,Orchard Road,Power Outage,2020-04-25 04:53:19.403470,Critical,Deferred,262.6,69,70.82
-SL2333,Toa Payoh,Sensor Malfunction,2020-04-27 16:03:29.202949,Low,Reported,234.27,39,23.32
-SL2235,Toa Payoh,Controller Malfunction,2020-04-28 17:55:04.146239,Critical,In Progress,469.12,49,39.64
-SL0268,Chinatown,Controller Malfunction,2020-04-29 07:24:39.076045,Critical,Resolved,341.0,89,106.71
-SL0315,Canberra,Bulb Failure,2020-05-04 15:44:15.642847,Medium,Deferred,334.86,93,100.2
-SL1762,Margaret Drive,Controller Malfunction,2020-05-06 05:13:15.727276,High,Deferred,282.02,52,11.29
-SL0548,Margaret Drive,Sensor Malfunction,2020-05-09 05:08:56.578915,Low,In Progress,98.86,83,42.25
-SL2909,Chinatown,Bulb Failure,2020-05-09 06:04:45.915911,Low,Resolved,174.56,15,102.14
-SL0277,Margaret Drive,Power Outage,2020-05-09 17:15:40.375783,Medium,In Progress,270.2,32,135.62
-SL0504,Jurong West,Controller Malfunction,2020-05-09 22:25:12.839543,Low,In Progress,55.0,71,135.94
-SL2373,Margaret Drive,Bulb Failure,2020-05-10 01:37:38.231030,Medium,Deferred,460.74,66,16.41
-SL1687,Bishan,Power Outage,2020-05-11 14:36:51.484377,High,Reported,411.48,24,132.37
-SL1914,Bugis Junction,Power Outage,2020-05-12 00:58:19.690956,Critical,Reported,289.32,64,130.03
-SL2248,Bugis Junction,Physical Damage,2020-05-12 01:55:19.249012,Critical,Deferred,459.64,42,107.14
-SL1206,Canberra,Bulb Failure,2020-05-12 11:39:27.005296,Low,Resolved,97.71,76,41.75
-SL1248,Canberra,Controller Malfunction,2020-05-14 06:04:27.605808,Low,In Progress,298.03,76,65.05
-SL1490,Pasir Ris,Communication Error,2020-05-16 03:05:25.286002,High,Deferred,189.73,25,80.53
-SL1512,Pasir Ris,Overheating,2020-05-16 05:52:10.504755,Critical,Deferred,462.33,18,51.8
-SL2177,Jurong West,Power Outage,2020-05-16 13:44:04.477037,Critical,Resolved,63.61,88,40.29
-SL2041,Outram Park,Physical Damage,2020-05-17 19:08:58.748483,Low,Resolved,297.42,81,79.1
-SL1878,Bishan,Sensor Malfunction,2020-05-18 08:34:06.266126,Critical,In Progress,429.1,90,15.69
-SL1763,Bugis Junction,Communication Error,2020-05-18 11:32:34.782956,Medium,Resolved,219.54,40,49.04
-SL0537,Canberra,Communication Error,2020-05-18 12:51:45.361524,Low,Reported,,14,28.53
-SL2409,Canberra,Wiring Fault,2020-05-19 01:22:36.755748,High,Reported,298.29,57,147.03
-SL0593,Canberra,Wiring Fault,2020-05-19 21:39:52.519549,Medium,Deferred,253.46,54,79.64
-SL0153,Bugis Junction,Bulb Failure,2020-05-20 07:12:46.465766,Low,Deferred,,84,140.27
-SL2803,Canberra,Power Outage,2020-05-23 10:18:24.953306,Critical,Reported,360.22,79,73.0
-SL2003,Bugis Junction,Power Outage,2020-05-24 23:24:42.516339,Critical,Deferred,287.68,46,72.8
-SL2609,Pasir Ris,Power Outage,2020-05-25 09:09:12.077583,Low,Reported,148.4,30,59.48
-SL1691,Pasir Ris,Dimming Issue,2020-05-26 01:05:13.563943,Medium,Resolved,252.7,3,67.86
-SL0715,Pasir Ris,Bulb Failure,2020-05-26 08:14:11.693282,Medium,Reported,387.58,91,19.22
-SL0425,Toa Payoh,Sensor Malfunction,2020-05-28 02:44:22.090780,Critical,Reported,,82,58.51
-SL2644,Bugis Junction,Wiring Fault,2020-05-28 18:58:30.798140,High,Deferred,,7,147.88
-SL0562,Bishan,Wiring Fault,2020-05-30 14:57:57.578152,High,Resolved,256.08,49,84.37
-SL0650,Pasir Ris,Controller Malfunction,2020-05-31 09:58:53.146119,High,Reported,81.23,86,19.92
-SL2645,Jurong West,Sensor Malfunction,2020-06-02 03:49:03.347697,Low,Resolved,347.63,23,90.57
-SL1332,Chinatown,Power Outage,2020-06-02 10:39:00.728358,Critical,Deferred,311.23,67,24.64
-SL0287,Canberra,Bulb Failure,2020-06-02 16:14:17.604812,Medium,Resolved,468.8,26,28.69
-SL2831,Outram Park,Bulb Failure,2020-06-03 00:39:44.917011,Low,Reported,272.04,78,39.47
-SL2694,Pasir Ris,Communication Error,2020-06-03 23:19:04.442634,High,In Progress,446.45,83,117.47
-SL2157,Pasir Ris,Controller Malfunction,2020-06-04 12:48:21.723917,High,Reported,69.99,48,43.53
-SL1988,Pasir Ris,Controller Malfunction,2020-06-04 13:23:35.486037,High,In Progress,309.77,98,142.7
-SL0688,Canberra,Communication Error,2020-06-05 07:44:10.294958,Medium,Reported,259.23,80,50.58
-SL0289,Outram Park,Power Outage,2020-06-16 23:28:04.674863,High,In Progress,448.94,17,69.8
-SL0629,Bugis Junction,Controller Malfunction,2020-06-17 11:03:14.330909,High,In Progress,310.32,29,94.52
-SL2724,Bugis Junction,Communication Error,2020-06-19 23:53:33.907657,Low,Reported,286.78,32,127.45
-SL0655,Outram Park,Dimming Issue,2020-06-20 04:02:33.786407,High,In Progress,187.7,35,142.96
-SL1501,Pasir Ris,Controller Malfunction,2020-06-22 16:20:54.467579,Medium,Deferred,350.02,76,23.94
-SL2851,Pasir Ris,Dimming Issue,2020-06-25 01:19:42.957996,Critical,Resolved,70.34,99,114.54
-SL0678,Outram Park,Physical Damage,2020-06-26 07:01:49.165875,High,Resolved,354.66,78,48.15
-SL2059,Bugis Junction,Overheating,2020-06-27 04:52:10.713762,Critical,In Progress,,62,72.4
-SL1159,Jurong West,Power Outage,2020-06-30 03:44:40.250637,Low,Deferred,83.18,70,114.68
-SL2095,Outram Park,Wiring Fault,2020-06-30 15:52:16.432218,Critical,In Progress,419.0,34,89.17
-SL2947,Margaret Drive,Controller Malfunction,2020-06-30 21:25:03.724987,High,Resolved,397.01,47,130.29
-SL0761,Canberra,Bulb Failure,2020-07-01 02:45:56.335000,Low,Reported,385.75,68,110.4
-SL0442,Pasir Ris,Overheating,2020-07-02 13:46:58.284924,Low,In Progress,465.54,95,46.18
-SL0109,Bugis Junction,Power Outage,2020-07-02 17:43:24.316942,Medium,In Progress,70.91,8,41.24
-SL1123,Margaret Drive,Physical Damage,2020-07-03 22:25:30.760961,Critical,In Progress,324.98,18,142.12
-SL0952,Jurong West,Bulb Failure,2020-07-05 12:13:25.543898,High,Deferred,438.73,2,121.65
-SL2397,Margaret Drive,Wiring Fault,2020-07-07 21:01:57.629612,Low,Deferred,101.59,17,76.24
-SL0910,Bugis Junction,Bulb Failure,2020-07-09 10:07:10.988417,High,In Progress,167.15,10,94.79
-SL1827,Orchard Road,Dimming Issue,2020-07-09 14:37:59.007264,High,Reported,356.65,59,29.86
-SL0598,Jurong West,Dimming Issue,2020-07-10 11:07:06.102846,Low,Deferred,463.37,0,149.35
-SL2145,Toa Payoh,Overheating,2020-07-11 03:41:28.367176,Low,Deferred,474.29,37,64.91
-SL0362,Orchard Road,Sensor Malfunction,2020-07-11 06:16:01.754495,Medium,Reported,448.11,12,30.54
-SL2818,Orchard Road,Overheating,2020-07-13 15:30:37.289367,Critical,Resolved,191.41,18,113.92
-SL1859,Jurong West,Power Outage,2020-07-14 05:33:23.271926,Medium,Resolved,,43,115.21
-SL0488,Margaret Drive,Wiring Fault,2020-07-14 13:48:37.026569,Critical,Deferred,262.12,65,112.83
-SL0876,Pasir Ris,Controller Malfunction,2020-07-15 11:03:18.182538,High,In Progress,484.07,82,68.83
-SL2645,Jurong West,Sensor Malfunction,2020-07-17 03:07:10.033891,Low,In Progress,476.98,88,13.32
-SL2565,Bishan,Power Outage,2020-07-17 03:51:56.498962,High,Deferred,84.27,21,27.7
-SL2442,Margaret Drive,Dimming Issue,2020-07-17 21:54:15.410224,High,Deferred,201.03,100,80.79
-SL1171,Pasir Ris,Dimming Issue,2020-07-18 14:29:24.723743,High,In Progress,113.42,17,56.76
-SL0813,Bugis Junction,Overheating,2020-07-20 20:28:03.857640,Medium,Resolved,290.64,15,19.64
-SL1973,Outram Park,Sensor Malfunction,2020-07-21 20:01:40.452402,Low,Reported,206.12,7,25.8
-SL2206,Toa Payoh,Bulb Failure,2020-07-22 04:48:29.138226,Critical,In Progress,388.06,27,10.1
-SL2833,Bishan,Power Outage,2020-07-22 07:06:16.739956,Medium,Deferred,178.57,28,111.23
-SL2990,Jurong West,Sensor Malfunction,2020-07-24 04:31:04.284399,Critical,Deferred,124.79,93,48.94
-SL1076,Bishan,Wiring Fault,2020-07-24 22:20:46.298542,Medium,Reported,135.01,45,14.51
-SL0605,Chinatown,Bulb Failure,2020-07-25 04:48:16.950702,High,Reported,294.41,52,91.3
-SL0955,Pasir Ris,Overheating,2020-07-25 18:40:06.398202,Low,Resolved,269.18,66,104.51
-SL0907,Pasir Ris,Bulb Failure,2020-07-26 19:37:05.011369,Low,Reported,231.12,3,132.82
-SL0306,Pasir Ris,Dimming Issue,2020-07-27 12:45:34.341762,Medium,Reported,412.69,76,57.65
-SL1477,Margaret Drive,Physical Damage,2020-07-28 03:57:40.377395,High,Resolved,192.93,31,14.05
-SL0048,Bugis Junction,Wiring Fault,2020-07-28 06:06:50.173555,Critical,In Progress,321.63,15,47.26
-SL0886,Bugis Junction,Wiring Fault,2020-07-29 00:38:08.220875,Medium,Resolved,474.62,33,16.59
-SL0705,Outram Park,Physical Damage,2020-07-29 19:42:10.758783,Medium,Reported,426.38,50,80.53
-SL2986,Jurong West,Dimming Issue,2020-07-30 00:06:01.990175,Critical,Deferred,212.38,34,26.51
-SL2498,Orchard Road,Sensor Malfunction,2020-07-31 11:57:56.574786,High,Deferred,180.35,88,143.23
-SL1180,Bishan,Physical Damage,2020-08-01 14:36:56.458204,Critical,Deferred,,76,113.76
-SL2272,Margaret Drive,Sensor Malfunction,2020-08-02 18:02:49.587449,Low,Resolved,257.15,4,73.53
-SL1723,Orchard Road,Dimming Issue,2020-08-05 23:17:45.731876,Medium,Deferred,,37,78.91
-SL2725,Pasir Ris,Wiring Fault,2020-08-06 11:18:17.394164,High,Deferred,368.99,23,57.95
-SL1624,Canberra,Overheating,2020-08-06 14:41:48.384941,High,Reported,111.85,70,101.2
-SL0334,Orchard Road,Dimming Issue,2020-08-06 22:20:55.150636,Critical,Deferred,78.32,92,127.67
-SL0986,Toa Payoh,Overheating,2020-08-07 01:47:28.724944,Critical,Resolved,140.24,76,142.62
-SL2665,Chinatown,Dimming Issue,2020-08-07 17:39:45.235180,Low,Deferred,413.24,80,35.74
-SL0276,Outram Park,Controller Malfunction,2020-08-08 02:56:12.429371,Critical,Deferred,153.04,57,72.1
-SL1149,Outram Park,Physical Damage,2020-08-09 16:29:37.664475,Medium,Resolved,396.21,49,70.95
-SL0325,Chinatown,Bulb Failure,2020-08-12 01:57:50.957826,Medium,In Progress,418.28,37,102.8
-SL2553,Bishan,Controller Malfunction,2020-08-12 12:46:33.908948,Low,Deferred,191.41,6,59.11
-SL2540,Margaret Drive,Physical Damage,2020-08-13 06:22:49.387224,Medium,Deferred,,100,63.09
-SL2443,Toa Payoh,Sensor Malfunction,2020-08-13 10:43:56.439032,Medium,Reported,265.7,69,105.24
-SL0611,Orchard Road,Dimming Issue,2020-08-14 22:44:26.694230,High,In Progress,164.76,36,96.86
-SL0052,Chinatown,Bulb Failure,2020-08-16 20:47:48.304495,Low,Deferred,,58,115.04
-SL2710,Canberra,Wiring Fault,2020-08-17 14:09:55.126055,Critical,Reported,115.46,50,36.82
-SL1440,Canberra,Dimming Issue,2020-08-18 12:38:06.757464,High,In Progress,,98,29.48
-SL0821,Bugis Junction,Controller Malfunction,2020-08-19 00:59:04.180946,Critical,Reported,463.89,85,110.09
-SL1137,Chinatown,Power Outage,2020-08-20 00:07:39.137726,Critical,Reported,,51,62.61
-SL0513,Chinatown,Sensor Malfunction,2020-08-20 01:11:26.967360,Critical,Reported,215.27,2,116.02
-SL0663,Chinatown,Controller Malfunction,2020-08-21 08:01:51.291907,High,Reported,276.33,13,17.39
-SL2998,Margaret Drive,Wiring Fault,2020-08-21 16:20:20.156906,Low,Deferred,109.26,49,13.16
-SL1190,Chinatown,Wiring Fault,2020-08-21 19:36:58.311598,Medium,Reported,,65,13.43
-SL1415,Orchard Road,Bulb Failure,2020-08-24 05:04:03.156430,High,Deferred,81.48,17,107.34
-SL1864,Chinatown,Sensor Malfunction,2020-08-25 07:08:37.726429,High,Deferred,222.71,81,59.51
-SL2800,Margaret Drive,Overheating,2020-08-25 23:53:18.911960,Low,Deferred,169.85,94,140.63
-SL2012,Chinatown,Wiring Fault,2020-08-28 14:44:37.312119,High,Reported,77.75,78,139.4
-SL2221,Margaret Drive,Wiring Fault,2020-08-29 10:09:08.164493,High,In Progress,491.73,68,61.65
-SL2476,Chinatown,Power Outage,2020-08-29 11:23:38.934760,Low,In Progress,299.12,67,39.0
-SL2066,Bugis Junction,Physical Damage,2020-08-29 16:58:58.002050,High,Reported,135.49,8,148.21
-SL1965,Jurong West,Overheating,2020-08-30 17:25:54.418292,High,Reported,415.42,96,85.11
-SL2054,Canberra,Dimming Issue,2020-08-31 01:11:21.501508,High,In Progress,318.7,71,95.64
-SL0128,Pasir Ris,Controller Malfunction,2020-08-31 08:25:27.629209,Critical,Reported,138.46,27,92.87
-SL1868,Margaret Drive,Power Outage,2020-08-31 20:30:50.155264,Low,In Progress,,5,108.74
-SL0610,Bishan,Sensor Malfunction,2020-09-02 02:31:45.759582,High,Reported,469.08,50,60.07
-SL0216,Pasir Ris,Physical Damage,2020-09-02 05:30:41.432309,Medium,Resolved,465.8,70,108.79
-SL2220,Toa Payoh,Overheating,2020-09-02 23:19:36.189270,Low,Reported,113.62,6,119.73
-SL2767,Chinatown,Dimming Issue,2020-09-03 11:56:31.283900,High,Deferred,250.93,67,62.45
-SL1132,Chinatown,Sensor Malfunction,2020-09-04 05:33:15.602466,High,In Progress,343.28,66,143.47
-SL1996,Jurong West,Bulb Failure,2020-09-04 08:23:15.530988,Low,Resolved,121.91,82,105.29
-SL2375,Jurong West,Overheating,2020-09-06 04:51:35.069471,High,Deferred,484.28,20,37.08
-SL1809,Chinatown,Power Outage,2020-09-09 13:18:11.033094,High,Resolved,,66,11.07
-SL2934,Canberra,Dimming Issue,2020-09-11 09:36:44.560236,High,Resolved,169.97,18,56.15
-SL0358,Chinatown,Wiring Fault,2020-09-14 23:46:23.566346,Low,Resolved,480.36,29,46.37
-SL0355,Jurong West,Dimming Issue,2020-09-15 13:35:31.054256,Critical,Deferred,78.46,65,74.58
-SL0237,Toa Payoh,Dimming Issue,2020-09-16 03:23:21.946635,Low,In Progress,291.85,66,121.38
-SL2024,Toa Payoh,Controller Malfunction,2020-09-17 18:05:03.409252,Low,Reported,233.31,32,148.62
-SL1794,Orchard Road,Wiring Fault,2020-09-20 00:45:02.662150,Critical,In Progress,70.65,5,120.41
-SL0977,Jurong West,Bulb Failure,2020-09-21 15:38:24.093424,Low,In Progress,140.82,16,119.04
-SL1433,Outram Park,Bulb Failure,2020-09-23 07:21:24.381163,High,Deferred,208.56,49,118.62
-SL2703,Bugis Junction,Power Outage,2020-09-26 15:25:42.588066,Low,Deferred,291.39,18,28.99
-SL1685,Orchard Road,Wiring Fault,2020-09-27 01:23:56.384962,Low,Reported,488.72,46,47.14
-SL2544,Margaret Drive,Controller Malfunction,2020-09-27 15:35:38.687873,High,Reported,190.54,62,95.3
-SL1536,Jurong West,Power Outage,2020-09-28 12:27:51.022177,Critical,In Progress,212.26,41,37.61
-SL1006,Orchard Road,Bulb Failure,2020-10-01 04:04:56.932324,High,In Progress,423.27,2,67.05
-SL1463,Margaret Drive,Communication Error,2020-10-01 04:11:33.335728,High,In Progress,,48,143.57
-SL1741,Pasir Ris,Controller Malfunction,2020-10-01 19:29:32.731376,Critical,In Progress,,62,55.42
-SL2665,Chinatown,Overheating,2020-10-02 11:45:52.943311,Low,In Progress,205.8,49,143.07
-SL0866,Orchard Road,Overheating,2020-10-03 02:39:32.815639,Medium,Reported,103.96,8,84.62
-SL0496,Margaret Drive,Bulb Failure,2020-10-07 03:07:05.200212,Medium,Reported,461.12,35,143.1
-SL2093,Bugis Junction,Communication Error,2020-10-07 05:21:44.891042,High,Reported,360.55,73,66.9
-SL2355,Pasir Ris,Sensor Malfunction,2020-10-07 14:46:24.417287,High,In Progress,342.17,56,96.58
-SL0906,Margaret Drive,Physical Damage,2020-10-08 10:11:45.239578,Medium,Reported,182.04,3,127.22
-SL1517,Toa Payoh,Power Outage,2020-10-09 10:39:45.510151,Critical,In Progress,422.35,8,125.48
-SL2529,Canberra,Overheating,2020-10-10 08:21:23.026842,Low,Resolved,481.7,49,115.94
-SL1416,Chinatown,Overheating,2020-10-10 08:32:22.026920,Low,Reported,357.41,45,103.45
-SL0288,Chinatown,Bulb Failure,2020-10-11 00:55:48.894006,High,Deferred,,75,99.91
-SL0774,Margaret Drive,Communication Error,2020-10-11 14:34:35.624897,Critical,Deferred,131.06,93,137.88
-SL0627,Pasir Ris,Bulb Failure,2020-10-12 00:17:09.168056,Medium,In Progress,415.97,15,18.81
-SL2604,Orchard Road,Dimming Issue,2020-10-14 13:02:34.723786,Medium,In Progress,166.62,41,21.8
-SL1262,Toa Payoh,Physical Damage,2020-10-17 04:24:45.836752,High,Resolved,182.66,40,70.72
-SL2310,Outram Park,Wiring Fault,2020-10-17 13:56:59.220769,Low,Deferred,133.03,1,58.02
-SL1736,Bishan,Controller Malfunction,2020-10-19 20:56:36.714636,Low,In Progress,311.8,3,104.59
-SL0728,Jurong West,Physical Damage,2020-10-20 06:59:06.478345,Low,Deferred,296.04,93,50.5
-SL0491,Toa Payoh,Bulb Failure,2020-10-20 22:38:23.848184,Medium,In Progress,,91,38.99
-SL0437,Outram Park,Communication Error,2020-10-22 08:24:37.264658,High,Reported,287.2,12,131.71
-SL2685,Toa Payoh,Bulb Failure,2020-10-22 13:33:18.707486,High,Resolved,468.23,90,94.52
-SL1356,Margaret Drive,Power Outage,2020-10-23 12:03:50.899909,Low,Deferred,67.52,95,117.57
-SL1794,Orchard Road,Overheating,2020-10-23 15:19:25.821644,Critical,Resolved,123.65,28,138.9
-SL1193,Pasir Ris,Power Outage,2020-10-24 11:26:10.374355,High,In Progress,150.99,25,63.95
-SL0371,Outram Park,Bulb Failure,2020-10-25 18:35:03.290373,Critical,Reported,393.14,33,104.2
-SL2383,Bugis Junction,Sensor Malfunction,2020-10-27 14:00:01.937478,High,Resolved,164.34,75,108.88
-SL2993,Pasir Ris,Power Outage,2020-11-01 04:34:39.811711,Low,Reported,254.21,64,109.64
-SL0998,Jurong West,Wiring Fault,2020-11-03 18:53:15.749983,Medium,Reported,397.73,4,142.19
-SL1821,Chinatown,Communication Error,2020-11-04 01:37:16.148627,Medium,Resolved,160.08,28,27.55
-SL0537,Canberra,Communication Error,2020-11-05 00:07:51.902922,Low,Resolved,333.9,98,86.59
-SL1139,Jurong West,Overheating,2020-11-10 02:28:10.489859,High,In Progress,457.57,12,48.95
-SL2999,Jurong West,Bulb Failure,2020-11-10 14:20:48.498642,Critical,Resolved,,32,135.17
-SL2507,Chinatown,Controller Malfunction,2020-11-10 14:32:53.038700,Medium,Reported,165.23,91,147.21
-SL2161,Orchard Road,Physical Damage,2020-11-12 13:03:57.962550,Medium,In Progress,298.45,39,89.41
-SL2635,Bugis Junction,Physical Damage,2020-11-12 21:47:20.388528,Critical,Reported,347.88,72,133.66
-SL2365,Outram Park,Bulb Failure,2020-11-14 01:02:20.017233,High,Reported,302.41,37,110.83
-SL2447,Margaret Drive,Communication Error,2020-11-14 10:14:40.833025,Low,Deferred,367.86,78,32.47
-SL2942,Orchard Road,Dimming Issue,2020-11-14 14:46:50.173309,Low,Resolved,437.4,8,96.87
-SL0733,Margaret Drive,Wiring Fault,2020-11-16 06:54:34.907502,Medium,Resolved,476.38,48,92.88
-SL0604,Jurong West,Communication Error,2020-11-16 10:02:37.334593,Low,Resolved,248.68,27,22.06
-SL2851,Pasir Ris,Dimming Issue,2020-11-20 02:45:06.364783,Critical,In Progress,306.06,85,137.22
-SL2516,Bishan,Sensor Malfunction,2020-11-20 15:15:44.544454,Medium,Deferred,495.27,24,84.46
-SL1805,Margaret Drive,Sensor Malfunction,2020-11-21 01:18:40.101765,Low,In Progress,301.43,62,96.87
-SL0985,Orchard Road,Wiring Fault,2020-11-22 12:12:56.488405,Low,Deferred,290.07,21,19.34
-SL0152,Bishan,Communication Error,2020-11-25 01:03:14.090633,Low,Reported,115.17,83,106.1
-SL1117,Canberra,Controller Malfunction,2020-11-25 03:39:22.368450,Medium,Deferred,143.03,27,14.31
-SL2279,Jurong West,Bulb Failure,2020-11-28 11:14:49.678227,Critical,In Progress,259.55,7,61.7
-SL2273,Canberra,Bulb Failure,2020-11-29 12:53:11.423474,Low,Deferred,262.89,44,125.1
-SL0493,Orchard Road,Overheating,2020-11-29 16:38:50.814317,Medium,Reported,473.52,89,76.69
-SL1593,Outram Park,Wiring Fault,2020-11-30 16:26:35.531151,Critical,Resolved,270.13,17,93.44
-SL0583,Jurong West,Dimming Issue,2020-12-02 00:50:31.665603,High,Resolved,204.1,3,43.64
-SL2056,Canberra,Overheating,2020-12-02 11:19:10.879055,Medium,In Progress,59.51,61,148.55
-SL2223,Pasir Ris,Overheating,2020-12-03 03:01:38.612355,High,Reported,187.86,97,60.72
-SL1101,Bugis Junction,Wiring Fault,2020-12-03 16:02:45.558976,Critical,In Progress,269.36,89,129.58
-SL2450,Bugis Junction,Sensor Malfunction,2020-12-03 16:07:44.980518,High,Deferred,456.29,89,32.96
-SL0261,Bishan,Dimming Issue,2020-12-05 00:45:37.523122,Critical,In Progress,227.42,34,82.89
-SL1052,Outram Park,Wiring Fault,2020-12-06 14:06:30.698448,Low,Reported,60.33,20,81.29
-SL1826,Jurong West,Controller Malfunction,2020-12-07 21:09:51.238340,High,In Progress,233.22,14,89.25
-SL2754,Jurong West,Physical Damage,2020-12-07 22:27:57.196383,Low,Reported,71.24,90,147.41
-SL1904,Bishan,Overheating,2020-12-08 12:21:28.464077,High,In Progress,,30,143.2
-SL0178,Jurong West,Wiring Fault,2020-12-09 15:09:28.212392,Critical,In Progress,176.26,26,14.69
-SL2396,Canberra,Bulb Failure,2020-12-12 11:53:09.914820,High,Deferred,,83,77.07
-SL2431,Pasir Ris,Physical Damage,2020-12-14 10:03:04.275169,Low,Deferred,451.06,70,48.21
-SL0470,Bugis Junction,Controller Malfunction,2020-12-15 04:02:02.167221,Critical,Deferred,283.34,7,101.09
-SL2415,Pasir Ris,Sensor Malfunction,2020-12-15 06:46:44.261839,Low,In Progress,237.56,66,53.32
-SL2795,Margaret Drive,Controller Malfunction,2020-12-16 10:40:47.837972,Low,In Progress,247.68,76,26.52
-SL1108,Bugis Junction,Communication Error,2020-12-16 13:29:03.510452,Low,Reported,341.76,61,95.42
-SL0668,Orchard Road,Overheating,2020-12-17 12:15:47.834002,Medium,Resolved,227.83,10,114.9
-SL1245,Bugis Junction,Bulb Failure,2020-12-17 12:51:01.096180,Critical,Deferred,242.6,83,115.19
-SL0151,Jurong West,Power Outage,2020-12-17 13:43:08.937033,High,Reported,422.35,16,67.29
-SL1771,Jurong West,Dimming Issue,2020-12-17 13:49:31.697909,High,Resolved,62.63,92,66.31
-SL0905,Orchard Road,Communication Error,2020-12-17 23:47:46.353197,High,In Progress,170.38,15,145.69
-SL0688,Canberra,Physical Damage,2020-12-19 01:23:06.788844,Medium,Deferred,478.07,59,56.3
-SL0572,Chinatown,Bulb Failure,2020-12-20 01:32:20.655404,Medium,Deferred,169.77,76,46.28
-SL0103,Canberra,Physical Damage,2020-12-22 00:19:13.635521,High,Resolved,243.63,96,17.51
-SL2192,Toa Payoh,Communication Error,2020-12-22 14:14:11.101436,Medium,In Progress,83.57,100,114.08
-SL0700,Outram Park,Overheating,2020-12-28 10:00:03.400476,High,Resolved,147.95,57,10.68
-SL2347,Bugis Junction,Dimming Issue,2020-12-30 08:38:57.202204,High,In Progress,306.41,74,44.69
+light_id,location_name,fault_type,timestamp,severity_level,fault_status,maintenance_cost
+L0058,Canberra,Sensor-related,2020-01-03 19:51:36,High,In Progress,247.01
+L0950,Outram Park,Sensor-related,2020-01-05 00:35:27,Low,Acknowledged,71.5
+L0759,Orchard Road,Power-related,2020-01-05 13:21:17,High,Closed,112.9
+L0498,City Hall,Control system,2020-01-07 05:01:16,High,In Progress,340.43
+L0306,Canberra,Environmental,2020-01-08 10:28:21,Critical,Acknowledged,497.78
+L0553,Canberra,Communication,2020-01-09 10:31:47,Low,Resolved,201.74
+L0856,Canberra,Power-related,2020-01-10 00:41:25,High,In Progress,396.98
+L0210,Chinatown,Sensor-related,2020-01-10 23:50:42,Low,Acknowledged,
+L0451,Toa Payoh,Environmental,2020-01-11 10:10:35,Medium,Detected,238.98
+L0175,Bishan,Power-related,2020-01-12 03:19:52,Medium,Resolved,396.02
+L0788,Bishan,Cybersecurity,2020-01-14 00:20:29,Low,Detected,472.09
+L0934,Bugis Junction,Control system,2020-01-15 03:26:21,Medium,Detected,105.29
+L0448,Canberra,Cybersecurity,2020-01-15 05:36:13,Critical,Acknowledged,451.93
+L0286,Canberra,Environmental,2020-01-15 14:28:38,High,Acknowledged,267.76
+L0405,City Hall,Cybersecurity,2020-01-15 18:33:16,High,Closed,166.56
+L0148,Pasir Ris,Power-related,2020-01-18 05:41:01,Medium,Resolved,493.32
+L0345,Orchard Road,Environmental,2020-01-19 20:54:15,Medium,In Progress,56.02
+L0124,Toa Payoh,Control system,2020-01-20 07:01:10,High,In Progress,419.65
+L0229,Toa Payoh,Control system,2020-01-21 01:51:25,Critical,Detected,293.56
+L0338,Bishan,Environmental,2020-01-22 19:14:00,Informational,In Progress,397.84
+L0650,Jurong West,Control system,2020-01-26 11:35:29,Low,Acknowledged,456.19
+L0310,Bishan,Communication,2020-01-26 20:12:44,Informational,In Progress,336.25
+L0773,Pasir Ris,Environmental,2020-02-01 08:36:26,Medium,In Progress,228.26
+L0052,Chinatown,Sensor-related,2020-02-04 03:44:45,Informational,Detected,85.68
+L0942,Bishan,Cybersecurity,2020-02-04 05:05:01,Medium,Resolved,456.03
+L0176,Bishan,Control system,2020-02-05 11:45:05,Informational,Acknowledged,335.87
+L0448,Canberra,Communication,2020-02-09 00:08:07,Informational,In Progress,327.75
+L0546,Canberra,Cybersecurity,2020-02-10 02:48:05,Medium,In Progress,214.97
+L0040,Chinatown,Sensor-related,2020-02-10 08:08:46,High,Closed,231.93
+L0030,Bugis Junction,Control system,2020-02-10 10:42:41,Low,Acknowledged,287.7
+L0430,Toa Payoh,Sensor-related,2020-02-10 21:50:29,High,In Progress,296.31
+L0837,Outram Park,Cybersecurity,2020-02-11 00:50:52,Low,Detected,64.94
+L0593,Bishan,Cybersecurity,2020-02-13 00:21:56,Medium,Resolved,244.14
+L0393,Canberra,Control system,2020-02-16 08:45:42,Medium,Resolved,270.84
+L0185,Toa Payoh,Sensor-related,2020-02-19 09:47:51,Informational,Resolved,350.19
+L0446,Toa Payoh,Control system,2020-02-19 16:16:21,Medium,Closed,60.73
+L0693,Pasir Ris,Power-related,2020-02-20 13:56:25,Low,Resolved,244.92
+L0698,Chinatown,Control system,2020-02-20 15:46:30,Informational,In Progress,133.16
+L0469,Bishan,Environmental,2020-02-24 01:50:51,High,Acknowledged,359.15
+L0793,Jurong West,Power-related,2020-02-26 18:23:52,Medium,In Progress,217.18
+L0260,Bugis Junction,Cybersecurity,2020-02-27 05:50:57,Informational,In Progress,
+L0013,Bishan,Cybersecurity,2020-02-28 05:14:52,Low,Acknowledged,167.65
+L0948,Pasir Ris,Cybersecurity,2020-02-29 16:37:48,Informational,Closed,72.69
+L0177,Jurong West,Power-related,2020-03-01 15:43:47,Critical,Detected,
+L0547,Canberra,Sensor-related,2020-03-02 00:17:50,Critical,In Progress,
+L0131,Chinatown,Cybersecurity,2020-03-03 08:26:59,Informational,Detected,
+L0492,Canberra,Sensor-related,2020-03-05 13:35:41,Informational,Closed,172.98
+L0406,Outram Park,Power-related,2020-03-06 00:50:33,High,Detected,84.82
+L0688,Jurong West,Sensor-related,2020-03-06 09:29:02,Informational,Closed,470.12
+L0378,Jurong West,Cybersecurity,2020-03-07 18:11:21,Low,In Progress,109.77
+L0010,Chinatown,Environmental,2020-03-10 15:15:55,Low,Detected,211.85
+L0522,Toa Payoh,Environmental,2020-03-13 03:25:05,Critical,Closed,63.2
+L0824,Chinatown,Control system,2020-03-14 04:59:41,High,Closed,227.88
+L0422,Chinatown,Environmental,2020-03-14 10:47:10,Medium,In Progress,120.79
+L0180,Bishan,Environmental,2020-03-15 21:34:53,Low,Resolved,409.08
+L0399,Bishan,Environmental,2020-03-16 04:10:30,Informational,Closed,260.75
+L0682,Toa Payoh,Cybersecurity,2020-03-16 10:14:23,Informational,Resolved,
+L0909,Bugis Junction,Sensor-related,2020-03-17 00:48:10,High,Detected,248.17
+L0002,Bishan,Cybersecurity,2020-03-17 01:19:31,Medium,In Progress,153.65
+L0182,Canberra,Communication,2020-03-21 13:56:03,Low,Closed,423.41
+L0937,Toa Payoh,Power-related,2020-03-22 23:00:17,Medium,Detected,108.32
+L0432,City Hall,Power-related,2020-03-23 14:12:18,Medium,Detected,269.49
+L0284,Canberra,Communication,2020-03-23 15:36:24,High,Resolved,388.63
+L0329,Toa Payoh,Power-related,2020-03-23 18:11:48,Critical,In Progress,283.69
+L0384,Jurong West,Sensor-related,2020-03-25 16:43:01,High,Detected,164.55
+L0352,Jurong West,Power-related,2020-03-26 01:21:38,Low,Acknowledged,164.27
+L0262,Bishan,Sensor-related,2020-03-26 18:46:00,Medium,In Progress,
+L0249,Pasir Ris,Communication,2020-03-26 21:08:33,Low,Acknowledged,89.9
+L0049,Orchard Road,Communication,2020-03-29 05:45:57,Medium,Resolved,93.9
+L0137,Chinatown,Cybersecurity,2020-03-29 07:23:15,Critical,Closed,452.2
+L0041,Pasir Ris,Power-related,2020-03-30 22:27:22,Low,In Progress,131.88
+L0060,Orchard Road,Control system,2020-03-31 13:38:18,High,Resolved,117.24
+L0320,Bishan,Control system,2020-04-02 04:24:54,Medium,In Progress,303.6
+L0287,Chinatown,Power-related,2020-04-05 05:35:56,Informational,Resolved,368.24
+L0751,Outram Park,Environmental,2020-04-07 20:17:04,Critical,Closed,346.8
+L0571,Orchard Road,Environmental,2020-04-09 22:24:50,Critical,Acknowledged,392.91
+L0959,Pasir Ris,Environmental,2020-04-10 08:49:49,Informational,Detected,467.96
+L0333,Toa Payoh,Communication,2020-04-10 11:54:50,Low,In Progress,
+L0800,Canberra,Sensor-related,2020-04-14 13:52:15,High,Resolved,406.36
+L0492,Canberra,Sensor-related,2020-04-15 04:31:53,Informational,Resolved,497.03
+L0808,Chinatown,Communication,2020-04-20 07:43:56,High,Resolved,460.84
+L0759,Orchard Road,Sensor-related,2020-04-20 09:43:18,Medium,Detected,418.44
+L0921,Toa Payoh,Sensor-related,2020-04-21 08:35:51,Informational,Closed,214.99
+L0577,Outram Park,Environmental,2020-04-21 09:33:26,High,Resolved,250.25
+L0132,Orchard Road,Control system,2020-04-25 07:26:18,High,In Progress,224.1
+L0547,Canberra,Sensor-related,2020-04-25 19:19:19,Critical,Detected,493.38
+L0928,City Hall,Control system,2020-04-28 01:26:48,Medium,Closed,53.29
+L0183,Bugis Junction,Power-related,2020-04-30 17:24:43,Informational,Detected,65.48
+L0746,Jurong West,Communication,2020-05-01 02:48:26,Medium,Detected,475.36
+L0816,Canberra,Communication,2020-05-03 21:09:36,Informational,Detected,453.54
+L0119,Outram Park,Sensor-related,2020-05-07 19:05:57,Informational,Closed,357.02
+L0726,Bugis Junction,Environmental,2020-05-10 13:10:21,High,Resolved,386.51
+L0160,Canberra,Communication,2020-05-11 00:43:15,Critical,Closed,55.92
+L0844,Outram Park,Control system,2020-05-11 18:22:57,Informational,In Progress,213.51
+L0980,Canberra,Environmental,2020-05-13 05:09:37,Low,Acknowledged,437.37
+L0453,Chinatown,Power-related,2020-05-15 16:37:54,Low,In Progress,197.36
+L0039,Bishan,Control system,2020-05-18 20:32:00,Critical,Detected,287.95
+L0702,Bugis Junction,Communication,2020-05-22 02:05:08,Medium,In Progress,92.35
+L0971,Orchard Road,Environmental,2020-05-22 21:39:22,Low,Detected,251.98
+L0812,Chinatown,Sensor-related,2020-05-24 20:31:58,Low,Detected,419.95
+L0660,City Hall,Sensor-related,2020-05-25 19:15:03,Informational,Detected,161.86
+L0055,Bugis Junction,Sensor-related,2020-05-27 00:07:53,Medium,Detected,333.14
+L0535,Canberra,Communication,2020-05-28 10:42:05,High,Closed,
+L0951,Bishan,Control system,2020-05-28 16:46:31,Informational,Closed,57.21
+L0120,Pasir Ris,Environmental,2020-05-30 17:32:15,Critical,In Progress,51.71
+L0491,Bishan,Communication,2020-05-30 20:24:23,Informational,Resolved,239.53
+L0305,Orchard Road,Power-related,2020-06-02 08:29:42,Low,Closed,133.39
+L0601,Bishan,Communication,2020-06-02 13:56:17,Medium,Resolved,479.53
+L0869,Toa Payoh,Communication,2020-06-03 00:25:53,High,Acknowledged,371.93
+L0493,Jurong West,Power-related,2020-06-07 04:17:29,Medium,Acknowledged,371.46
+L0226,Bugis Junction,Environmental,2020-06-08 23:40:57,Critical,Acknowledged,332.45
+L0454,Pasir Ris,Communication,2020-06-20 16:34:27,High,Detected,196.37
+L0910,Chinatown,Sensor-related,2020-06-22 07:21:16,Critical,Detected,390.46
+L0009,Jurong West,Control system,2020-06-23 00:59:43,Critical,Acknowledged,
+L0233,Bugis Junction,Power-related,2020-06-24 01:45:30,Medium,Resolved,299.54
+L0968,City Hall,Sensor-related,2020-06-25 09:43:47,Medium,In Progress,
+L0572,Toa Payoh,Cybersecurity,2020-06-26 15:08:40,Informational,In Progress,237.82
+L0419,Chinatown,Environmental,2020-06-26 16:03:49,High,Resolved,376.45
+L0695,City Hall,Power-related,2020-06-28 14:24:34,Critical,In Progress,256.14
+L0606,Pasir Ris,Cybersecurity,2020-06-29 08:13:33,Medium,Detected,337.81
+L0455,Pasir Ris,Environmental,2020-06-30 00:27:19,Medium,Closed,483.51
+L0042,Outram Park,Power-related,2020-07-01 10:44:47,Informational,Acknowledged,316.74
+L0582,Outram Park,Environmental,2020-07-01 18:00:35,Low,Resolved,200.7
+L0527,Chinatown,Environmental,2020-07-03 15:47:52,Critical,In Progress,
+L0998,Chinatown,Communication,2020-07-04 01:57:39,Low,Detected,319.31
+L0386,Bugis Junction,Communication,2020-07-04 02:50:40,Low,In Progress,274.95
+L0390,Outram Park,Power-related,2020-07-05 08:04:21,High,In Progress,464.81
+L0359,Orchard Road,Sensor-related,2020-07-06 13:46:57,Low,In Progress,353.37
+L0805,Orchard Road,Control system,2020-07-08 10:57:39,Low,In Progress,
+L0010,Chinatown,Sensor-related,2020-07-09 21:10:36,Low,Resolved,
+L0988,Outram Park,Cybersecurity,2020-07-13 23:34:55,Low,In Progress,243.73
+L0733,Outram Park,Power-related,2020-07-17 10:03:00,Medium,Acknowledged,72.11
+L0249,Pasir Ris,Environmental,2020-07-18 21:40:04,High,Resolved,399.84
+L0305,Orchard Road,Control system,2020-07-21 11:02:52,Low,Acknowledged,136.51
+L0728,Chinatown,Sensor-related,2020-07-21 21:05:56,Medium,In Progress,246.03
+L0075,Chinatown,Control system,2020-07-23 10:26:55,Medium,Detected,397.72
+L0802,Orchard Road,Cybersecurity,2020-07-23 17:13:25,Informational,Closed,399.02
+L0597,Jurong West,Communication,2020-07-23 19:05:01,Informational,Closed,212.32
+L0132,Orchard Road,Control system,2020-07-24 00:42:40,Informational,Closed,406.45
+L0051,Outram Park,Control system,2020-07-24 12:50:40,Critical,Detected,88.94
+L0807,Bishan,Sensor-related,2020-07-25 02:37:10,Critical,Resolved,220.27
+L0635,Chinatown,Environmental,2020-07-26 17:51:06,Informational,Detected,
+L0834,City Hall,Environmental,2020-07-26 19:16:53,Medium,Resolved,426.99
+L0091,Outram Park,Cybersecurity,2020-07-28 02:28:52,Informational,Acknowledged,289.72
+L0668,Chinatown,Sensor-related,2020-07-31 22:48:56,Low,In Progress,439.8
+L0140,Toa Payoh,Control system,2020-08-02 01:53:46,Medium,In Progress,
+L0994,Bishan,Control system,2020-08-04 03:03:39,Informational,Resolved,328.9
+L0474,Orchard Road,Sensor-related,2020-08-04 15:10:46,Low,Closed,276.43
+L0649,Bugis Junction,Cybersecurity,2020-08-05 09:35:25,Low,In Progress,
+L0508,Bugis Junction,Sensor-related,2020-08-06 22:54:50,Low,Detected,301.83
+L0030,Bugis Junction,Power-related,2020-08-08 07:05:09,Informational,Closed,115.94
+L0593,Bishan,Power-related,2020-08-09 07:09:50,High,Resolved,81.67
+L0610,Outram Park,Control system,2020-08-09 19:40:16,Low,Resolved,59.36
+L0676,Orchard Road,Cybersecurity,2020-08-10 10:33:26,High,Resolved,189.15
+L0270,Bishan,Power-related,2020-08-12 12:54:02,Critical,Detected,329.46
+L0456,Pasir Ris,Cybersecurity,2020-08-12 19:02:47,Medium,Closed,
+L0088,City Hall,Environmental,2020-08-17 09:59:26,Medium,Resolved,220.78
+L0173,Chinatown,Environmental,2020-08-17 14:23:03,Critical,Acknowledged,193.5
+L0681,Bishan,Environmental,2020-08-18 14:14:58,Medium,Acknowledged,65.94
+L0524,Chinatown,Power-related,2020-08-19 22:16:12,Medium,Detected,392.42
+L0034,City Hall,Cybersecurity,2020-08-21 00:23:16,Informational,Resolved,224.33
+L0666,Orchard Road,Sensor-related,2020-08-21 07:40:49,Informational,Detected,71.38
+L0788,Bishan,Communication,2020-08-22 13:12:01,High,Closed,220.91
+L0412,Toa Payoh,Sensor-related,2020-08-23 23:58:57,Informational,Closed,395.83
+L0110,Bishan,Cybersecurity,2020-08-24 00:46:03,Low,Detected,417.58
+L0894,Pasir Ris,Control system,2020-08-24 05:44:06,Critical,Acknowledged,205.75
+L0539,City Hall,Cybersecurity,2020-08-24 07:09:24,Medium,Acknowledged,447.76
+L0783,Bishan,Environmental,2020-08-26 15:30:59,Medium,In Progress,270.88
+L0359,Orchard Road,Sensor-related,2020-08-27 07:26:40,Medium,In Progress,195.81
+L0408,Chinatown,Cybersecurity,2020-08-29 22:02:14,Critical,Closed,491.82
+L0543,Bugis Junction,Sensor-related,2020-08-30 01:33:20,High,In Progress,493.39
+L0039,Bishan,Cybersecurity,2020-09-01 05:42:17,Medium,Detected,318.85
+L0388,Bugis Junction,Cybersecurity,2020-09-02 21:46:03,Low,In Progress,248.17
+L0794,Orchard Road,Environmental,2020-09-03 04:36:18,Critical,Closed,499.74
+L0845,Bishan,Cybersecurity,2020-09-03 05:53:48,High,In Progress,384.38
+L0902,Toa Payoh,Communication,2020-09-03 15:37:15,Critical,Closed,57.28
+L0701,Bishan,Cybersecurity,2020-09-05 06:05:21,High,Acknowledged,244.24
+L0202,Orchard Road,Cybersecurity,2020-09-10 06:55:32,Low,Resolved,191.56
+L0170,Toa Payoh,Control system,2020-09-10 12:51:56,High,Closed,123.32
+L0445,City Hall,Environmental,2020-09-10 16:59:01,Critical,Closed,
+L0643,Orchard Road,Control system,2020-09-11 13:45:24,Critical,Closed,133.78
+L0961,Bugis Junction,Power-related,2020-09-12 01:27:41,High,Acknowledged,62.32
+L0307,Toa Payoh,Control system,2020-09-14 08:39:18,High,Closed,457.33
+L0120,Pasir Ris,Power-related,2020-09-15 04:33:24,Medium,Closed,420.51
+L0684,Toa Payoh,Environmental,2020-09-15 18:50:48,High,Closed,178.14
+L0380,Outram Park,Communication,2020-09-16 09:37:37,High,Resolved,348.65
+L0878,Canberra,Control system,2020-09-17 06:16:54,Low,Resolved,489.22
+L0481,City Hall,Environmental,2020-09-17 15:07:30,Critical,Closed,
+L0670,Canberra,Power-related,2020-09-17 15:44:58,Informational,In Progress,152.19
+L0477,Pasir Ris,Sensor-related,2020-09-17 15:54:50,Medium,Acknowledged,109.13
+L0292,Bishan,Control system,2020-09-19 17:36:52,Critical,Acknowledged,402.15
+L0798,Bugis Junction,Environmental,2020-09-22 10:38:09,High,In Progress,242.38
+L0570,Outram Park,Cybersecurity,2020-09-27 05:01:44,Critical,Acknowledged,131.1
+L0638,Canberra,Communication,2020-09-28 22:18:23,Critical,Closed,138.54
+L0157,Orchard Road,Environmental,2020-10-03 12:55:24,Low,Resolved,167.9
+L0413,Chinatown,Sensor-related,2020-10-06 02:21:38,High,Closed,337.84
+L0538,Bishan,Communication,2020-10-07 13:18:12,High,Closed,386.32
+L0274,Pasir Ris,Communication,2020-10-09 18:52:03,Critical,Closed,
+L0708,Bishan,Cybersecurity,2020-10-11 04:29:58,Critical,Closed,451.38
+L0519,Pasir Ris,Communication,2020-10-11 08:47:26,Informational,Acknowledged,51.22
+L0117,Jurong West,Sensor-related,2020-10-12 03:12:58,Medium,Detected,151.88
+L0481,City Hall,Communication,2020-10-13 02:04:06,Informational,Detected,84.09
+L0052,Chinatown,Environmental,2020-10-15 04:11:10,Critical,In Progress,
+L0310,Bishan,Control system,2020-10-17 06:43:49,High,Resolved,
+L0436,Orchard Road,Environmental,2020-10-17 07:13:45,Critical,Acknowledged,475.93
+L0593,Bishan,Cybersecurity,2020-10-18 03:09:13,Informational,In Progress,119.92
+L0258,Bishan,Power-related,2020-10-24 00:09:08,Informational,Acknowledged,
+L0287,Chinatown,Environmental,2020-10-26 14:41:32,High,In Progress,103.66
+L0744,Bishan,Cybersecurity,2020-10-27 19:29:05,Low,Acknowledged,353.05
+L0570,Outram Park,Power-related,2020-11-02 19:30:04,Low,Acknowledged,275.75
+L0930,Chinatown,Control system,2020-11-05 07:50:05,Low,In Progress,151.2
+L0226,Bugis Junction,Cybersecurity,2020-11-05 12:51:57,Informational,Closed,78.3
+L0245,Canberra,Power-related,2020-11-06 22:48:40,Informational,Closed,68.74
+L0057,Chinatown,Communication,2020-11-06 23:57:26,Low,In Progress,478.46
+L0754,Toa Payoh,Control system,2020-11-07 09:39:18,Low,Closed,339.31
+L0040,Chinatown,Sensor-related,2020-11-07 11:05:11,Medium,Detected,141.63
+L0929,Chinatown,Environmental,2020-11-07 12:17:32,High,Closed,75.16
+L0061,Chinatown,Environmental,2020-11-10 03:05:30,Low,Closed,233.02
+L0464,City Hall,Control system,2020-11-10 03:38:14,Informational,Acknowledged,371.29
+L0139,Pasir Ris,Environmental,2020-11-11 02:57:24,Informational,Acknowledged,192.31
+L0253,Jurong West,Sensor-related,2020-11-12 02:26:49,Medium,Closed,
+L0650,Jurong West,Sensor-related,2020-11-13 03:00:51,Medium,Acknowledged,61.0
+L0599,Bishan,Communication,2020-11-13 04:32:39,Medium,Acknowledged,293.26
+L0651,City Hall,Environmental,2020-11-14 15:18:49,High,Resolved,262.6
+L0017,Orchard Road,Power-related,2020-11-15 04:13:30,Informational,In Progress,180.26
+L0458,Canberra,Power-related,2020-11-16 22:09:03,Low,Detected,284.19
+L0190,Bugis Junction,Cybersecurity,2020-11-17 05:28:28,Critical,In Progress,
+L0163,Orchard Road,Control system,2020-11-17 22:45:54,Low,Resolved,121.07
+L0778,Chinatown,Environmental,2020-11-19 00:39:00,Low,Acknowledged,
+L0805,Orchard Road,Communication,2020-11-20 17:36:48,Informational,Closed,52.67
+L0136,Canberra,Sensor-related,2020-11-21 09:43:39,Low,In Progress,322.02
+L0830,Pasir Ris,Control system,2020-11-21 17:16:28,High,In Progress,346.03
+L0607,Bishan,Environmental,2020-11-22 22:16:29,Medium,In Progress,462.18
+L0543,Bugis Junction,Cybersecurity,2020-11-24 21:06:49,Low,Resolved,430.17
+L0745,City Hall,Control system,2020-11-26 20:33:05,Critical,Resolved,455.32
+L0534,Bugis Junction,Environmental,2020-11-27 13:09:19,Medium,Detected,381.7
+L0980,Canberra,Environmental,2020-11-28 06:57:27,Low,Acknowledged,
+L0420,City Hall,Environmental,2020-11-28 07:15:10,Critical,In Progress,337.54
+L0967,Jurong West,Cybersecurity,2020-12-01 03:48:06,Informational,In Progress,318.93
+L0716,Jurong West,Sensor-related,2020-12-03 16:48:15,Medium,Acknowledged,417.73
+L0363,Orchard Road,Environmental,2020-12-04 12:57:19,Medium,Acknowledged,156.63
+L0708,Bishan,Power-related,2020-12-05 18:20:02,Informational,Detected,310.74
+L0582,Outram Park,Cybersecurity,2020-12-05 18:36:00,Low,Acknowledged,440.8
+L0456,Pasir Ris,Sensor-related,2020-12-08 13:18:21,Medium,Detected,141.19
+L0670,Canberra,Environmental,2020-12-10 16:19:17,Informational,Acknowledged,416.0
+L0608,Canberra,Environmental,2020-12-14 20:27:43,Medium,Acknowledged,403.52
+L0514,Pasir Ris,Power-related,2020-12-15 06:06:19,Informational,Resolved,68.97
+L0348,Canberra,Power-related,2020-12-18 03:53:00,High,Resolved,109.7
+L0922,Canberra,Control system,2020-12-18 05:56:28,Medium,Closed,406.36
+L0160,Canberra,Control system,2020-12-19 20:10:58,Low,Closed,104.23
+L0229,Toa Payoh,Environmental,2020-12-21 20:02:27,Low,Detected,99.34
+L0415,City Hall,Control system,2020-12-22 22:33:49,Critical,In Progress,270.28
+L0038,Outram Park,Communication,2020-12-26 11:36:15,High,In Progress,447.18
+L0925,Outram Park,Control system,2020-12-27 15:26:59,Critical,Closed,231.93
+L0475,City Hall,Environmental,2020-12-28 13:39:44,Critical,In Progress,459.92
+L0789,Chinatown,Communication,2020-12-28 13:48:13,Low,Detected,213.63
+L0731,Pasir Ris,Power-related,2020-12-29 15:40:30,Informational,Detected,376.1
+L0867,Pasir Ris,Communication,2020-12-30 08:33:29,Informational,Closed,352.9
+L0140,Toa Payoh,Sensor-related,2020-12-30 09:51:33,Medium,Detected,
