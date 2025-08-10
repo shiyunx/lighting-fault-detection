@@ -1,9 +1,9 @@
-# 🚦 Smart Lighting System
-This repository analyses the performance of a smart street lighting system using a synthetic dataset.
+# 🚦 Lighting Fault Detection
+This repository analyzes the performance of a lighting fault detection system using a synthetic dataset.
 
-**Objective:** Improve street lighting efficiency and enhance commuter safety
+**Objective:** Improve street lighting efficiency and enhance commuter safety.
 
-## 🔎 Project focus areas
-1. Analyse overall street light performance
-2. Detect and classify lighting faults
-3. Design an automated response system
+## 🔎 Project Focus Areas
+1. Data cleaning
+2. Fault analysis
+3. Fault detection
