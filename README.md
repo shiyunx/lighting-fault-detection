@@ -3,7 +3,9 @@ This repository analyses the performance of a lighting fault detection system us
 
 **Objective:** Improve street lighting efficiency and enhance commuter safety.
 
-## 🔎 Project Focus Areas
+## 🔎 Project Areas
 1. Data cleaning
 2. Fault analysis
-3. Fault detection
+3. Severity prediction  
+4. Fault classification  
+5. Automated response
