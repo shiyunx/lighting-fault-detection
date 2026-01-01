@@ -1,5 +1,5 @@
 # 🚦 Lighting Fault Detection
-This repository analyses the performance of a lighting fault detection system using a synthetic dataset.
+This repository analyses the performance of a lighting fault detection system using a practice dataset.
 
 **Objective:** Improve street lighting efficiency and enhance commuter safety.
 
