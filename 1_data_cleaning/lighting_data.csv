@@ -1,169 +1,427 @@
 light_id,location_name,fault_type,timestamp,severity_level,fault_status,maintenance_cost
-L0313,Jurong West,Power-related,2020-01-07 09:05:35,Low,Closed,297.45
-L0385,Pasir Ris,Environmental,2020-01-07 10:28:12,Medium,In Progress,172.61
-L0158,Canberra,Communication,2020-01-07 13:09:56,Medium,Detected,381.23
-L0554,Jurong West,Communication,2020-01-08 01:55:51,Medium,In Progress,284.3
-L0755,Bishan,Communication,2020-01-11 10:49:07,Critical,In Progress,76.52
-L0328,Outram Park,Control system,2020-01-12 10:19:36,Low,Closed,124.7
-L0570,Toa Payoh,Cybersecurity,2020-01-15 17:19:49,Critical,Resolved,151.36
-L0084,Jurong West,Control system,2020-01-16 13:53:28,High,Acknowledged,
-L0502,Chinatown,Power-related,2020-01-17 03:41:25,Critical,Acknowledged,
-L0062,Chinatown,Control system,2020-01-17 22:03:22,High,In Progress,408.38
-L0286,Outram Park,Communication,2020-01-18 20:53:41,Low,Detected,125.3
-L0110,City Hall,Cybersecurity,2020-01-25 04:05:58,High,Resolved,264.18
-L0604,Orchard Road,Environmental,2020-01-25 11:30:17,Critical,Closed,417.56
-L0333,City Hall,Communication,2020-01-26 04:20:32,Low,Acknowledged,316.25
-L0357,Orchard Road,Environmental,2020-01-31 02:51:06,Critical,Closed,252.21
-L0443,Jurong West,Communication,2020-02-02 22:13:59,High,Detected,312.81
-L0746,Canberra,Control system,2020-02-03 10:16:10,Low,Resolved,298.82
-L0351,Bishan,Cybersecurity,2020-02-06 04:23:36,Critical,Resolved,369.94
-L0910,Outram Park,Environmental,2020-02-09 22:51:32,High,Acknowledged,464.15
-L0729,Toa Payoh,Communication,2020-02-10 13:51:43,Medium,Closed,321.12
-L0089,Bishan,Cybersecurity,2020-02-10 21:24:28,Critical,Closed,68.67
-L0166,Toa Payoh,Communication,2020-02-11 07:54:50,Critical,Acknowledged,372.34
-L0328,Outram Park,Communication,2020-02-15 21:29:03,High,Acknowledged,298.71
-L0572,Pasir Ris,Cybersecurity,2020-02-18 10:15:02,High,In Progress,315.86
-L0665,Outram Park,Control system,2020-02-19 20:36:53,Informational,Closed,125.97
-L0483,Orchard Road,Control system,2020-02-21 10:55:38,High,Resolved,71.34
-L0013,Outram Park,Communication,2020-02-22 21:27:40,Medium,Acknowledged,199.08
-L0047,Chinatown,Sensor-related,2020-02-26 01:33:41,Critical,In Progress,107.64
-L0955,Bugis Junction,Environmental,2020-03-03 12:38:16,Critical,Detected,
-L0178,Chinatown,Environmental,2020-03-05 20:40:39,Informational,Detected,96.84
-L0714,Toa Payoh,Environmental,2020-03-06 19:48:04,Low,Acknowledged,419.36
-L0758,Jurong West,Cybersecurity,2020-03-08 13:05:45,Informational,Resolved,192.69
-L0976,Outram Park,Cybersecurity,2020-03-08 23:49:05,Low,Acknowledged,186.13
-L0436,City Hall,Environmental,2020-03-09 05:14:18,High,In Progress,399.5
-L0307,Bishan,Environmental,2020-03-13 07:39:30,High,Resolved,477.0
-L0180,Jurong West,Control system,2020-03-15 11:40:07,High,Acknowledged,262.5
-L0584,Outram Park,Environmental,2020-03-18 18:34:22,High,Resolved,98.12
-L0629,Outram Park,Control system,2020-03-21 12:09:51,Critical,Detected,131.08
-L0256,Chinatown,Cybersecurity,2020-03-23 09:55:21,High,Acknowledged,412.64
-L0031,Outram Park,Environmental,2020-03-23 19:28:07,Informational,In Progress,222.97
-L0659,Toa Payoh,Control system,2020-03-24 22:03:24,Informational,Acknowledged,413.03
-L0695,Orchard Road,Environmental,2020-03-28 01:33:43,High,Closed,165.65
-L0570,Toa Payoh,Environmental,2020-03-30 02:54:10,Medium,In Progress,327.76
-L1000,Canberra,Cybersecurity,2020-03-31 18:43:47,Low,Detected,234.97
-L0921,Toa Payoh,Sensor-related,2020-04-03 03:16:25,Informational,Detected,427.3
-L0484,Pasir Ris,Control system,2020-04-08 04:02:35,Low,Detected,223.13
-L0829,Outram Park,Control system,2020-04-15 01:41:19,Medium,Closed,
-L0951,Pasir Ris,Communication,2020-04-16 14:11:05,Critical,Detected,226.86
-L0211,Jurong West,Cybersecurity,2020-04-16 18:21:50,Informational,In Progress,113.1
-L0990,Bishan,Control system,2020-04-17 11:19:45,Informational,In Progress,274.56
-L0064,Canberra,Power-related,2020-04-24 22:35:36,Critical,Acknowledged,87.5
-L0867,City Hall,Control system,2020-04-29 13:38:00,High,Detected,340.84
-L0214,Pasir Ris,Control system,2020-04-30 04:34:51,Low,Acknowledged,223.96
-L0127,Canberra,Power-related,2020-04-30 13:27:19,Informational,In Progress,200.69
-L0063,Bugis Junction,Communication,2020-04-30 13:36:56,Critical,Resolved,55.65
-L0140,Chinatown,Communication,2020-05-07 15:18:50,High,Detected,376.83
-L0493,Canberra,Cybersecurity,2020-05-07 17:51:07,Critical,Acknowledged,492.04
-L0008,City Hall,Power-related,2020-05-15 12:31:17,Informational,Acknowledged,306.28
-L0669,Bishan,Power-related,2020-05-19 02:36:12,Low,In Progress,261.96
-L0156,Toa Payoh,Environmental,2020-05-19 13:53:59,Low,Resolved,126.91
-L0080,Bugis Junction,Communication,2020-05-22 10:13:48,Medium,Resolved,
-L0575,Canberra,Power-related,2020-05-23 05:26:17,Informational,Closed,402.56
-L0907,City Hall,Environmental,2020-05-23 11:59:00,Informational,Detected,423.65
-L0239,Outram Park,Environmental,2020-05-23 21:10:33,High,Detected,352.32
-L0320,Orchard Road,Environmental,2020-05-25 06:04:18,Medium,In Progress,175.64
-L0439,Jurong West,Sensor-related,2020-05-25 13:23:21,Medium,Acknowledged,275.42
-L0104,City Hall,Communication,2020-05-31 14:34:42,Low,Detected,179.68
-L0315,City Hall,Control system,2020-06-01 08:24:07,Critical,Acknowledged,344.55
-L0237,Chinatown,Control system,2020-06-02 18:45:02,High,In Progress,440.52
-L0425,Chinatown,Power-related,2020-06-03 00:11:47,High,Detected,438.21
-L0905,Toa Payoh,Power-related,2020-06-03 19:55:46,Medium,Acknowledged,
-L0817,Bugis Junction,Sensor-related,2020-06-04 07:05:34,Informational,Detected,154.65
-L0279,Pasir Ris,Cybersecurity,2020-06-04 09:53:25,Critical,In Progress,383.02
-L0991,Outram Park,Sensor-related,2020-06-06 04:53:22,Informational,Acknowledged,75.03
-L0810,Outram Park,Communication,2020-06-06 11:20:17,Informational,In Progress,329.67
-L0965,Pasir Ris,Power-related,2020-06-18 15:20:36,Low,Acknowledged,
-L0249,Toa Payoh,Environmental,2020-06-22 03:46:15,Critical,In Progress,380.33
-L0463,Bugis Junction,Power-related,2020-06-25 19:13:46,Informational,Detected,
-L0025,Toa Payoh,Cybersecurity,2020-06-26 11:12:00,Critical,Acknowledged,282.93
-L0105,Outram Park,Communication,2020-07-02 20:46:18,Critical,In Progress,249.46
-L0938,Canberra,Communication,2020-07-04 01:31:27,Low,Detected,109.88
-L0420,Toa Payoh,Environmental,2020-07-07 15:15:55,Low,Detected,
-L0904,Outram Park,Sensor-related,2020-07-08 12:55:22,High,Resolved,235.18
-L0640,Jurong West,Control system,2020-07-13 00:51:09,Low,In Progress,239.26
-L0860,Canberra,Sensor-related,2020-07-16 05:19:30,Low,Detected,423.39
-L0323,Chinatown,Control system,2020-07-16 20:23:30,Low,Resolved,308.96
-L0031,Outram Park,Sensor-related,2020-07-17 18:01:49,Medium,Acknowledged,398.79
-L0915,Bugis Junction,Sensor-related,2020-07-17 23:35:30,Low,Resolved,202.57
-L0753,Pasir Ris,Sensor-related,2020-07-19 14:07:38,Medium,In Progress,200.49
-L0883,Chinatown,Communication,2020-07-23 22:23:39,High,Detected,459.45
-L0337,Bishan,Sensor-related,2020-07-24 08:23:25,Medium,In Progress,419.86
-L0370,City Hall,Sensor-related,2020-07-28 00:46:19,Medium,In Progress,472.62
-L0355,Bugis Junction,Cybersecurity,2020-07-29 13:57:42,Critical,Closed,414.67
-L0172,Toa Payoh,Cybersecurity,2020-07-30 13:46:47,High,Resolved,
-L0310,City Hall,Communication,2020-07-31 05:22:13,Low,Detected,83.71
-L0878,Bugis Junction,Environmental,2020-08-01 08:22:06,Informational,In Progress,491.71
-L0858,Toa Payoh,Sensor-related,2020-08-02 03:12:37,Critical,In Progress,191.88
-L0562,Jurong West,Environmental,2020-08-04 03:06:12,Informational,In Progress,429.67
-L0251,Jurong West,Cybersecurity,2020-08-05 12:50:53,Informational,Acknowledged,205.54
-L0204,Orchard Road,Power-related,2020-08-07 18:12:58,High,Acknowledged,463.53
-L0607,Outram Park,Environmental,2020-08-11 07:16:35,High,In Progress,
-L0174,Toa Payoh,Environmental,2020-08-13 10:50:44,Low,Detected,
-L0432,City Hall,Control system,2020-08-14 16:57:34,Low,Acknowledged,225.0
-L0384,Toa Payoh,Cybersecurity,2020-08-16 03:20:01,Critical,In Progress,
-L0161,Bishan,Cybersecurity,2020-08-21 04:28:37,Critical,Detected,137.17
-L0148,City Hall,Control system,2020-08-21 08:41:28,Medium,Resolved,454.47
-L0217,Jurong West,Sensor-related,2020-08-24 17:11:49,High,Acknowledged,257.39
-L0104,City Hall,Control system,2020-08-26 01:35:12,Low,Resolved,53.86
-L0202,Bugis Junction,Control system,2020-08-27 01:48:41,Informational,Acknowledged,212.12
-L0253,Chinatown,Control system,2020-09-02 15:29:08,Critical,Acknowledged,299.67
-L0312,City Hall,Power-related,2020-09-05 09:45:12,Informational,In Progress,165.66
-L0550,Chinatown,Environmental,2020-09-07 13:04:54,Informational,Detected,205.18
-L0850,Chinatown,Environmental,2020-09-07 15:50:02,Critical,In Progress,93.71
-L0383,Bugis Junction,Environmental,2020-09-10 06:35:49,Low,Acknowledged,69.92
-L0270,Bishan,Sensor-related,2020-09-11 15:53:53,Low,Closed,317.59
-L0118,Bishan,Power-related,2020-09-12 18:24:53,Critical,Closed,240.0
-L0980,Toa Payoh,Power-related,2020-09-16 03:29:31,High,Resolved,202.95
-L0028,Bugis Junction,Cybersecurity,2020-09-17 13:36:04,Informational,Closed,311.93
-L0907,City Hall,Sensor-related,2020-09-21 02:20:28,Critical,Resolved,294.12
-L0426,Canberra,Power-related,2020-09-23 07:22:30,Medium,Detected,491.1
-L0341,Jurong West,Control system,2020-09-23 08:51:24,Informational,In Progress,198.17
-L0780,Bugis Junction,Control system,2020-09-27 09:38:08,High,Acknowledged,86.64
-L0804,Orchard Road,Power-related,2020-10-01 05:18:33,Informational,Detected,
-L0460,Orchard Road,Control system,2020-10-05 14:21:17,Critical,Detected,90.46
-L0071,Bugis Junction,Cybersecurity,2020-10-06 01:25:55,High,Detected,72.63
-L0560,Chinatown,Communication,2020-10-06 02:10:51,Low,Detected,173.03
-L0073,Bugis Junction,Control system,2020-10-13 01:02:46,Low,Resolved,468.52
-L0871,Bishan,Cybersecurity,2020-10-16 01:13:43,Medium,In Progress,200.47
-L0994,Canberra,Environmental,2020-10-17 03:28:07,Low,In Progress,231.63
-L0979,Orchard Road,Power-related,2020-10-22 21:06:48,Medium,Resolved,183.63
-L0742,Pasir Ris,Communication,2020-10-23 15:29:27,Critical,Detected,480.53
-L0080,Bugis Junction,Power-related,2020-10-25 13:50:31,Critical,Acknowledged,77.1
-L0838,Toa Payoh,Power-related,2020-10-30 06:33:57,High,In Progress,488.99
-L0386,Jurong West,Sensor-related,2020-10-31 21:33:13,Low,Closed,325.49
-L0037,Bugis Junction,Communication,2020-11-02 08:51:33,High,Closed,422.99
-L0030,Chinatown,Control system,2020-11-02 16:16:50,Informational,Detected,
-L0101,Orchard Road,Power-related,2020-11-04 23:10:06,Critical,Acknowledged,
-L0051,Bishan,Sensor-related,2020-11-05 02:44:11,High,In Progress,313.49
-L0655,City Hall,Sensor-related,2020-11-09 15:38:37,Informational,Closed,408.82
-L0692,Pasir Ris,Control system,2020-11-10 21:20:31,Informational,Detected,415.94
-L0311,Jurong West,Environmental,2020-11-12 04:09:45,Low,Acknowledged,185.04
-L0883,Chinatown,Communication,2020-11-17 06:30:06,Low,Closed,208.06
-L0326,Toa Payoh,Communication,2020-11-17 13:21:53,Medium,In Progress,229.32
-L0979,Orchard Road,Control system,2020-11-17 19:30:31,Informational,In Progress,427.61
-L0194,Orchard Road,Environmental,2020-11-18 04:50:22,Low,Detected,133.52
-L0219,Outram Park,Sensor-related,2020-11-23 01:27:38,Informational,Detected,497.54
-L0143,Pasir Ris,Power-related,2020-11-24 00:38:23,Informational,Closed,457.63
-L0851,Outram Park,Sensor-related,2020-11-26 11:27:50,Informational,Acknowledged,127.56
-L0316,Pasir Ris,Power-related,2020-11-27 20:29:52,Informational,In Progress,390.12
-L0538,Jurong West,Cybersecurity,2020-11-30 10:08:14,Medium,In Progress,193.75
-L0062,Chinatown,Cybersecurity,2020-11-30 13:47:41,Low,Closed,318.39
-L0333,City Hall,Power-related,2020-12-01 07:18:47,Informational,Acknowledged,190.9
-L0805,City Hall,Power-related,2020-12-04 02:56:46,Informational,Detected,399.28
-L0180,Jurong West,Sensor-related,2020-12-06 23:33:53,Low,Closed,90.13
-L0529,Jurong West,Communication,2020-12-08 12:13:37,Critical,Resolved,
-L0962,Orchard Road,Power-related,2020-12-11 12:29:11,High,Acknowledged,432.68
-L0149,Bugis Junction,Sensor-related,2020-12-13 02:22:14,Medium,In Progress,209.46
-L0936,Canberra,Communication,2020-12-13 03:24:16,Informational,In Progress,451.36
-L0675,Chinatown,Cybersecurity,2020-12-14 13:34:49,Medium,Acknowledged,297.53
-L0606,Jurong West,Cybersecurity,2020-12-17 10:05:09,Low,Resolved,419.58
-L0583,City Hall,Environmental,2020-12-19 00:24:23,Low,Resolved,207.64
-L0093,Toa Payoh,Communication,2020-12-20 02:48:17,Low,Closed,159.83
-L0867,City Hall,Environmental,2020-12-24 18:34:35,High,In Progress,85.22
-L0768,Chinatown,Cybersecurity,2020-12-24 21:14:30,Critical,Detected,156.92
-L0716,Pasir Ris,Control system,2020-12-26 03:30:47,High,Closed,
-L0085,Toa Payoh,Communication,2020-12-27 02:25:18,Medium,Closed,377.93
-L0525,Pasir Ris,Control system,2020-12-28 00:39:48,Low,In Progress,191.01
-L0904,Outram Park,Environmental,2020-12-29 05:58:29,Medium,Detected,301.04
+L0690,Toa Payoh,Cybersecurity,2020-01-02 00:43:50,Informational,Acknowledged,347.58
+L0879,Outram Park,Power-related,2020-01-02 06:35:36,Medium,Detected,81.24
+L0306,Orchard Road,Control system,2020-01-04 09:12:11,Medium,In Progress,87.74
+L0630,Bishan,Sensor-related,2020-01-04 15:14:36,High,Acknowledged,235.64
+L0390,Canberra,Control system,2020-01-04 23:51:38,Critical,Resolved,255.94
+L0523,Bishan,Power-related,2020-01-06 10:32:10,Informational,Resolved,99.08
+L0584,Bishan,Power-related,2020-01-06 21:23:59,Critical,Detected,418.77
+L0108,Bugis Junction,Communication,2020-01-08 14:46:53,Critical,In Progress,412.72
+L0211,Orchard Road,Environmental,2020-01-08 16:22:58,Informational,Acknowledged,285.27
+L0864,Canberra,Cybersecurity,2020-01-08 22:12:14,Low,In Progress,154.54
+L0110,Jurong West,Cybersecurity,2020-01-10 11:53:43,Critical,Acknowledged,84.97
+L0574,City Hall,Cybersecurity,2020-01-10 13:05:06,High,Closed,485.0
+L0968,Bugis Junction,Sensor-related,2020-01-11 12:17:28,High,Acknowledged,56.35
+L0384,Canberra,Sensor-related,2020-01-11 21:24:08,Informational,Detected,381.75
+L0228,Outram Park,Communication,2020-01-12 15:16:56,High,Closed,452.37
+L0780,Pasir Ris,Power-related,2020-01-13 15:13:09,Medium,Resolved,309.75
+L0388,Outram Park,Sensor-related,2020-01-16 05:35:19,Low,Detected,54.18
+L0399,Outram Park,Environmental,2020-01-16 10:39:08,Medium,Closed,120.2
+L0255,Orchard Road,Power-related,2020-01-16 11:06:21,Informational,Closed,192.0
+L0889,Jurong West,Control system,2020-01-18 22:17:02,High,Closed,435.32
+L0335,Bishan,Communication,2020-01-19 07:22:20,Critical,Acknowledged,249.96
+L0217,City Hall,Communication,2020-01-20 11:15:00,Critical,Detected,197.2
+L0799,Chinatown,Sensor-related,2020-01-20 16:49:24,High,Resolved,297.28
+L0625,Bugis Junction,Power-related,2020-01-21 06:51:18,High,Resolved,440.33
+L0806,Bishan,Environmental,2020-01-21 15:42:58,High,Resolved,212.89
+L0844,Pasir Ris,Communication,2020-01-21 20:48:54,Critical,Detected,112.21
+L0854,Chinatown,Communication,2020-01-22 05:50:36,Informational,Detected,383.59
+L0554,Chinatown,Environmental,2020-01-22 10:36:05,High,Detected,73.15
+L0041,Outram Park,Environmental,2020-01-23 01:16:20,Informational,In Progress,125.67
+L0246,Toa Payoh,Control system,2020-01-23 05:34:21,Critical,In Progress,50.64
+L0302,Bugis Junction,Environmental,2020-01-24 06:31:42,Medium,Resolved,63.59
+L0807,Bishan,Sensor-related,2020-01-26 00:16:55,Critical,Resolved,239.94
+L0611,Orchard Road,Communication,2020-01-26 10:12:50,Low,In Progress,242.53
+L0563,Jurong West,Power-related,2020-01-27 04:50:53,Low,Acknowledged,374.31
+L0167,Bugis Junction,Cybersecurity,2020-01-28 15:52:06,Medium,Closed,482.46
+L0837,Orchard Road,Cybersecurity,2020-01-28 16:01:12,Informational,Resolved,429.52
+L0656,Bugis Junction,Environmental,2020-01-29 23:52:03,High,In Progress,
+L0042,Chinatown,Communication,2020-01-30 01:13:51,Informational,In Progress,192.36
+L0011,Orchard Road,Control system,2020-01-30 02:58:00,Informational,Closed,348.23
+L0811,Bugis Junction,Power-related,2020-01-31 05:18:05,High,In Progress,318.84
+L0913,Canberra,Cybersecurity,2020-01-31 15:50:06,Informational,In Progress,206.52
+L0133,Outram Park,Communication,2020-02-01 02:40:40,Low,Detected,171.79
+L0418,Bugis Junction,Control system,2020-02-05 07:32:54,Low,Detected,
+L0174,City Hall,Sensor-related,2020-02-05 10:56:29,High,Resolved,250.2
+L0711,Chinatown,Control system,2020-02-05 11:11:48,Informational,In Progress,256.94
+L0219,Pasir Ris,Communication,2020-02-06 03:29:55,Informational,Resolved,
+L0001,Jurong West,Communication,2020-02-07 01:37:57,High,Acknowledged,203.37
+L0144,Pasir Ris,Control system,2020-02-07 17:57:33,Medium,Detected,258.51
+L0900,Jurong West,Communication,2020-02-08 02:43:22,Low,Detected,378.6
+L0769,Bugis Junction,Environmental,2020-02-08 17:42:29,Critical,Resolved,200.87
+L0119,Pasir Ris,Control system,2020-02-08 22:21:30,High,Closed,251.74
+L0243,Bugis Junction,Sensor-related,2020-02-10 04:12:49,High,Detected,
+L0282,Pasir Ris,Sensor-related,2020-02-10 15:58:29,High,Resolved,152.13
+L0050,Orchard Road,Sensor-related,2020-02-12 03:29:12,Informational,Detected,62.22
+L0863,Bugis Junction,Power-related,2020-02-12 16:57:31,Informational,In Progress,311.62
+L0117,Canberra,Control system,2020-02-12 22:41:09,Informational,Closed,468.96
+L0441,Canberra,Power-related,2020-02-16 07:02:35,Informational,Resolved,495.9
+L0632,Canberra,Sensor-related,2020-02-17 12:07:20,Informational,Closed,398.62
+L0614,Bishan,Control system,2020-02-18 14:37:01,Critical,In Progress,328.51
+L0194,City Hall,Sensor-related,2020-02-19 13:38:12,Low,In Progress,179.46
+L0290,Orchard Road,Environmental,2020-02-19 15:18:43,High,In Progress,
+L0479,Bugis Junction,Sensor-related,2020-02-19 19:47:15,Medium,Detected,474.13
+L0562,Outram Park,Cybersecurity,2020-02-20 10:54:57,High,In Progress,497.99
+L0854,Chinatown,Sensor-related,2020-02-21 18:08:33,Informational,Detected,105.78
+L0666,Chinatown,Power-related,2020-02-22 14:42:35,Medium,Closed,267.05
+L0677,Jurong West,Sensor-related,2020-02-25 13:57:37,Medium,Acknowledged,206.52
+L0551,Bugis Junction,Power-related,2020-02-25 16:12:34,Low,Acknowledged,193.64
+L0952,City Hall,Cybersecurity,2020-02-26 05:03:27,High,In Progress,176.25
+L0445,Bishan,Cybersecurity,2020-02-26 06:19:22,Critical,In Progress,97.73
+L0995,City Hall,Power-related,2020-02-26 21:12:36,Medium,Closed,131.8
+L0696,Jurong West,Environmental,2020-02-27 21:41:12,Medium,Acknowledged,305.09
+L0506,Bugis Junction,Environmental,2020-02-28 17:17:22,Medium,Detected,
+L0511,Outram Park,Cybersecurity,2020-02-28 18:00:00,High,Resolved,390.01
+L0520,City Hall,Communication,2020-02-29 03:34:36,Critical,In Progress,
+L0850,Toa Payoh,Power-related,2020-02-29 16:41:28,High,Closed,252.24
+L0177,Chinatown,Environmental,2020-02-29 16:48:58,Low,Detected,298.78
+L0761,Orchard Road,Communication,2020-02-29 20:18:57,Medium,Acknowledged,225.12
+L0293,Pasir Ris,Control system,2020-03-01 07:17:27,Medium,In Progress,
+L0823,Pasir Ris,Control system,2020-03-01 11:09:46,Critical,In Progress,222.28
+L0007,Bishan,Communication,2020-03-01 16:45:37,Informational,Resolved,50.36
+L0022,Orchard Road,Cybersecurity,2020-03-02 17:34:23,Informational,Detected,459.4
+L0889,Jurong West,Communication,2020-03-03 14:27:30,Critical,Acknowledged,
+L0396,Bishan,Cybersecurity,2020-03-04 10:11:05,Low,Resolved,
+L0241,Canberra,Environmental,2020-03-04 12:02:45,Medium,Detected,167.82
+L0632,Canberra,Power-related,2020-03-04 15:01:27,High,In Progress,398.07
+L0987,Toa Payoh,Power-related,2020-03-04 16:36:49,Critical,Resolved,
+L0305,Pasir Ris,Power-related,2020-03-05 07:46:52,Medium,Acknowledged,485.85
+L0432,Bugis Junction,Cybersecurity,2020-03-05 11:44:07,Informational,Closed,82.68
+L0351,Toa Payoh,Environmental,2020-03-05 19:39:03,Critical,Resolved,367.91
+L0451,Outram Park,Communication,2020-03-07 01:28:29,Low,Resolved,161.35
+L0410,City Hall,Sensor-related,2020-03-07 16:53:08,Medium,Closed,342.1
+L0974,Jurong West,Sensor-related,2020-03-09 03:56:09,Low,Detected,
+L0418,Bugis Junction,Control system,2020-03-09 04:48:46,Medium,Closed,123.83
+L0129,Canberra,Communication,2020-03-09 16:04:07,Informational,Acknowledged,493.91
+L0273,City Hall,Cybersecurity,2020-03-10 01:57:59,Critical,Detected,176.22
+L0153,Chinatown,Power-related,2020-03-10 18:40:16,Low,Resolved,237.99
+L0983,Pasir Ris,Sensor-related,2020-03-10 20:42:07,Informational,Acknowledged,
+L0035,Orchard Road,Sensor-related,2020-03-11 13:08:15,Informational,In Progress,275.97
+L0361,Canberra,Environmental,2020-03-13 16:23:42,Informational,Closed,226.33
+L0015,Jurong West,Communication,2020-03-13 20:54:14,Informational,Acknowledged,280.23
+L0325,Jurong West,Environmental,2020-03-14 08:14:02,Low,Acknowledged,170.46
+L0743,Bishan,Control system,2020-03-14 12:32:58,Low,In Progress,224.5
+L0210,Jurong West,Power-related,2020-03-14 16:38:42,Low,Acknowledged,366.59
+L0927,Orchard Road,Power-related,2020-03-15 01:44:28,High,In Progress,74.81
+L0335,Bishan,Power-related,2020-03-15 22:28:02,Informational,Detected,139.88
+L0811,Bugis Junction,Power-related,2020-03-18 10:10:17,Low,Detected,140.78
+L0514,Jurong West,Environmental,2020-03-19 09:24:20,Low,In Progress,460.16
+L0540,Chinatown,Sensor-related,2020-03-20 00:51:23,Medium,Acknowledged,331.0
+L0605,Bugis Junction,Sensor-related,2020-03-20 05:22:30,Medium,Closed,294.74
+L0694,Outram Park,Cybersecurity,2020-03-20 15:14:35,Low,Detected,108.55
+L0039,Orchard Road,Communication,2020-03-23 11:28:28,Medium,In Progress,237.41
+L0017,Canberra,Control system,2020-03-24 15:04:54,Informational,Acknowledged,145.4
+L0158,Orchard Road,Environmental,2020-03-27 04:25:03,Informational,In Progress,294.48
+L0035,Orchard Road,Control system,2020-03-29 07:31:06,High,Closed,210.17
+L0207,Canberra,Communication,2020-03-29 16:08:10,High,In Progress,282.66
+L0178,Toa Payoh,Control system,2020-03-30 06:07:33,High,Resolved,71.53
+L0484,Pasir Ris,Communication,2020-03-30 23:31:34,Informational,Detected,73.43
+L0670,Bishan,Power-related,2020-03-31 09:01:08,Informational,Detected,256.32
+L0455,Canberra,Environmental,2020-04-01 13:56:32,Low,Resolved,58.74
+L0684,Canberra,Sensor-related,2020-04-01 14:20:49,Medium,Acknowledged,209.51
+L0270,Jurong West,Cybersecurity,2020-04-02 05:06:20,Medium,In Progress,140.65
+L0943,Pasir Ris,Power-related,2020-04-06 00:19:44,Low,Acknowledged,492.08
+L0532,Orchard Road,Control system,2020-04-07 10:15:37,Informational,Acknowledged,494.53
+L0227,Toa Payoh,Cybersecurity,2020-04-07 16:42:21,Critical,Acknowledged,245.62
+L0027,Chinatown,Cybersecurity,2020-04-11 01:06:59,Critical,Detected,102.56
+L0352,Chinatown,Control system,2020-04-12 06:09:15,Critical,Resolved,252.7
+L0781,Canberra,Power-related,2020-04-12 16:46:06,High,Detected,206.24
+L0737,Chinatown,Communication,2020-04-13 06:30:23,Informational,In Progress,170.01
+L0557,Canberra,Environmental,2020-04-13 08:56:05,Medium,Closed,153.67
+L0021,Chinatown,Sensor-related,2020-04-13 12:22:25,Medium,In Progress,75.89
+L0917,Bishan,Cybersecurity,2020-04-17 04:04:55,High,In Progress,319.25
+L0145,Bishan,Environmental,2020-04-17 11:48:57,Critical,Resolved,204.67
+L0068,Chinatown,Communication,2020-04-18 13:43:26,Informational,In Progress,146.59
+L0984,Outram Park,Sensor-related,2020-04-18 15:45:34,High,Acknowledged,136.52
+L0509,Chinatown,Control system,2020-04-19 22:20:10,Medium,Resolved,68.49
+L0048,Bishan,Power-related,2020-04-20 16:13:08,Low,Acknowledged,338.27
+L0994,Bugis Junction,Cybersecurity,2020-04-21 03:17:37,Critical,Acknowledged,86.22
+L0762,Orchard Road,Control system,2020-04-22 06:32:58,Critical,Closed,184.84
+L0894,Bugis Junction,Communication,2020-04-22 11:59:56,Medium,Detected,108.93
+L0144,Pasir Ris,Communication,2020-04-23 03:56:18,Medium,Acknowledged,252.07
+L0396,Bishan,Cybersecurity,2020-04-23 16:04:03,Medium,Acknowledged,94.75
+L0567,Orchard Road,Environmental,2020-04-25 02:21:47,Medium,Detected,378.06
+L0749,Chinatown,Communication,2020-04-29 03:16:00,Informational,Detected,354.49
+L0097,Pasir Ris,Environmental,2020-04-30 21:47:08,Low,Acknowledged,252.89
+L0544,Bugis Junction,Communication,2020-05-01 12:45:22,High,Detected,
+L0177,Chinatown,Cybersecurity,2020-05-01 13:07:45,Medium,In Progress,424.6
+L0667,Bugis Junction,Control system,2020-05-01 15:05:17,Critical,Acknowledged,142.9
+L0379,Toa Payoh,Communication,2020-05-04 01:45:13,High,Resolved,453.24
+L0904,Bugis Junction,Cybersecurity,2020-05-05 04:52:54,Critical,Resolved,458.36
+L0635,Bishan,Cybersecurity,2020-05-05 10:15:07,High,In Progress,292.7
+L0264,Bishan,Cybersecurity,2020-05-06 01:26:54,High,Closed,395.69
+L0163,Bishan,Power-related,2020-05-06 01:32:51,Informational,Closed,398.77
+L0962,Outram Park,Sensor-related,2020-05-07 09:11:04,High,Closed,213.65
+L0023,Canberra,Cybersecurity,2020-05-07 19:07:13,Critical,Closed,221.21
+L0770,Jurong West,Sensor-related,2020-05-07 23:51:49,Low,Closed,479.69
+L0888,Bishan,Cybersecurity,2020-05-09 04:51:56,Critical,Resolved,408.24
+L0169,Orchard Road,Sensor-related,2020-05-09 06:50:33,Critical,Acknowledged,328.07
+L0772,City Hall,Cybersecurity,2020-05-09 16:18:21,Low,Resolved,
+L0368,Jurong West,Sensor-related,2020-05-10 02:56:23,High,Acknowledged,467.61
+L0331,Outram Park,Power-related,2020-05-10 20:34:55,Medium,Resolved,303.84
+L0587,Orchard Road,Communication,2020-05-11 14:53:49,Medium,Closed,354.82
+L0511,Outram Park,Sensor-related,2020-05-11 23:32:28,Critical,Detected,126.21
+L0151,City Hall,Sensor-related,2020-05-12 18:07:33,Informational,In Progress,238.02
+L0733,Canberra,Environmental,2020-05-13 15:11:50,Medium,Detected,
+L0353,Bishan,Sensor-related,2020-05-13 22:56:06,High,Resolved,136.25
+L0400,Pasir Ris,Communication,2020-05-14 19:30:07,Informational,In Progress,343.28
+L0007,Bishan,Power-related,2020-05-15 11:59:55,Low,Closed,240.22
+L0910,Canberra,Environmental,2020-05-18 01:23:56,Informational,Resolved,273.84
+L0729,Orchard Road,Communication,2020-05-18 02:13:36,High,In Progress,361.24
+L0636,Pasir Ris,Sensor-related,2020-05-18 19:25:12,Informational,Acknowledged,206.85
+L0793,Chinatown,Sensor-related,2020-05-18 20:28:22,Informational,In Progress,65.1
+L0327,Canberra,Cybersecurity,2020-05-18 20:55:53,Informational,Detected,373.99
+L0704,Chinatown,Environmental,2020-05-19 14:02:25,Medium,Detected,382.85
+L0768,Pasir Ris,Control system,2020-05-20 05:26:40,Critical,Acknowledged,
+L0372,Jurong West,Power-related,2020-05-23 01:28:09,Critical,Closed,110.28
+L0880,Orchard Road,Cybersecurity,2020-05-23 23:18:56,Informational,Acknowledged,292.11
+L0986,Toa Payoh,Cybersecurity,2020-05-24 05:03:30,Medium,In Progress,320.82
+L0958,Outram Park,Power-related,2020-05-25 12:09:55,High,In Progress,307.44
+L0759,Pasir Ris,Cybersecurity,2020-05-25 17:44:34,Low,In Progress,216.22
+L0133,Outram Park,Control system,2020-05-26 04:00:52,Critical,Detected,299.48
+L0660,City Hall,Communication,2020-05-27 05:13:13,Low,In Progress,98.31
+L0446,Bugis Junction,Environmental,2020-05-27 13:47:48,High,Closed,487.19
+L0976,Chinatown,Power-related,2020-05-28 04:18:32,Critical,Detected,
+L0498,Outram Park,Control system,2020-05-28 11:19:47,Critical,Detected,172.75
+L0397,City Hall,Communication,2020-05-29 06:10:06,Medium,In Progress,223.85
+L0592,Orchard Road,Environmental,2020-05-29 07:48:15,Medium,Closed,406.62
+L0798,Chinatown,Sensor-related,2020-05-29 07:55:32,Medium,Resolved,119.54
+L0538,Bugis Junction,Sensor-related,2020-05-29 14:43:05,Critical,Detected,295.62
+L0935,Bugis Junction,Communication,2020-05-29 22:04:10,Critical,Closed,388.22
+L0653,Chinatown,Control system,2020-05-30 19:17:05,Medium,Resolved,401.65
+L0602,City Hall,Control system,2020-05-31 01:50:58,High,Resolved,73.07
+L0561,Bugis Junction,Power-related,2020-05-31 08:06:17,High,Acknowledged,441.4
+L0048,Bishan,Cybersecurity,2020-05-31 19:22:02,Informational,Acknowledged,351.39
+L0668,City Hall,Communication,2020-06-01 04:09:24,High,Closed,
+L0794,Canberra,Cybersecurity,2020-06-01 09:52:42,Informational,Resolved,
+L0314,Jurong West,Power-related,2020-06-02 02:07:02,High,In Progress,311.97
+L0811,Bugis Junction,Cybersecurity,2020-06-02 02:20:36,Critical,Detected,350.2
+L0264,Bishan,Power-related,2020-06-02 09:27:22,Critical,In Progress,277.39
+L0301,Bishan,Environmental,2020-06-03 18:03:29,High,Closed,428.21
+L0881,Toa Payoh,Power-related,2020-06-03 19:04:08,High,Closed,304.7
+L0740,Toa Payoh,Power-related,2020-06-05 16:53:48,Informational,Resolved,420.04
+L0105,City Hall,Environmental,2020-06-05 23:13:42,Low,In Progress,97.62
+L0630,Bishan,Communication,2020-06-06 19:49:49,Medium,Acknowledged,382.24
+L0604,Pasir Ris,Power-related,2020-06-07 15:21:53,High,Acknowledged,331.19
+L0141,City Hall,Cybersecurity,2020-06-07 17:36:58,Critical,Acknowledged,62.66
+L0085,Outram Park,Control system,2020-06-10 00:09:17,Critical,Closed,455.13
+L0705,Bishan,Sensor-related,2020-06-12 07:10:29,Low,In Progress,87.18
+L0802,Chinatown,Environmental,2020-06-12 20:09:40,High,Detected,484.02
+L0324,City Hall,Cybersecurity,2020-06-14 03:52:49,Low,Acknowledged,
+L0608,Chinatown,Cybersecurity,2020-06-14 13:13:24,Low,Resolved,269.5
+L0763,Jurong West,Sensor-related,2020-06-15 04:07:37,Critical,Acknowledged,272.47
+L0407,Canberra,Environmental,2020-06-15 05:30:29,Informational,Resolved,439.02
+L0562,Outram Park,Cybersecurity,2020-06-15 19:40:16,Low,Resolved,437.57
+L0820,Bishan,Power-related,2020-06-16 17:27:28,High,Closed,365.23
+L0013,Jurong West,Sensor-related,2020-06-16 23:22:49,Medium,Acknowledged,468.8
+L0703,Pasir Ris,Environmental,2020-06-17 21:20:13,High,Acknowledged,489.56
+L0339,City Hall,Environmental,2020-06-18 01:13:32,Informational,In Progress,
+L0337,Chinatown,Cybersecurity,2020-06-18 21:54:10,Low,Acknowledged,244.16
+L0341,Bishan,Environmental,2020-06-19 10:15:42,Medium,Resolved,279.34
+L0750,City Hall,Control system,2020-06-19 17:33:21,Medium,Detected,359.61
+L0953,Outram Park,Cybersecurity,2020-06-20 11:19:12,Critical,In Progress,406.67
+L0903,City Hall,Environmental,2020-06-22 14:14:33,Informational,Closed,72.45
+L0848,Outram Park,Power-related,2020-06-24 23:47:05,High,Resolved,316.62
+L0957,Bishan,Sensor-related,2020-06-25 12:57:31,Medium,Resolved,460.01
+L0325,Jurong West,Environmental,2020-06-25 14:15:26,Critical,In Progress,275.76
+L0542,Outram Park,Power-related,2020-06-25 20:40:53,Low,Detected,
+L0658,Canberra,Communication,2020-06-26 02:29:29,Low,In Progress,298.11
+L0067,Pasir Ris,Environmental,2020-06-26 11:02:42,Critical,Acknowledged,
+L0776,Pasir Ris,Control system,2020-06-26 12:12:26,Medium,In Progress,185.86
+L0590,Bishan,Communication,2020-06-26 19:14:59,Low,Detected,313.96
+L0063,Toa Payoh,Power-related,2020-06-27 19:01:50,High,Acknowledged,422.84
+L0559,Chinatown,Control system,2020-06-27 19:32:47,High,Acknowledged,353.95
+L0794,Canberra,Cybersecurity,2020-06-28 19:29:44,Critical,Closed,163.32
+L0487,Canberra,Sensor-related,2020-06-29 08:06:42,Critical,In Progress,438.79
+L0921,Bugis Junction,Communication,2020-07-01 11:16:01,Low,Detected,401.84
+L0183,Canberra,Control system,2020-07-02 13:31:30,Critical,Detected,157.48
+L0062,Pasir Ris,Power-related,2020-07-04 07:24:47,Informational,Acknowledged,192.1
+L0704,Chinatown,Environmental,2020-07-04 13:19:42,Low,Closed,167.88
+L0676,Bugis Junction,Cybersecurity,2020-07-05 03:22:36,Critical,In Progress,55.66
+L0506,Bugis Junction,Sensor-related,2020-07-07 22:41:17,Low,Closed,
+L0110,Jurong West,Communication,2020-07-08 00:02:27,High,Resolved,377.62
+L0838,Orchard Road,Cybersecurity,2020-07-08 20:11:00,Informational,Resolved,409.85
+L0225,City Hall,Communication,2020-07-09 02:47:59,Critical,Detected,334.57
+L0720,Canberra,Cybersecurity,2020-07-09 03:11:13,Medium,Detected,376.55
+L0204,Orchard Road,Communication,2020-07-09 03:32:24,Critical,Detected,52.45
+L0707,Bugis Junction,Cybersecurity,2020-07-12 18:26:19,High,Closed,144.64
+L0282,Pasir Ris,Sensor-related,2020-07-12 19:56:27,High,Closed,157.82
+L0628,City Hall,Cybersecurity,2020-07-13 18:43:47,High,In Progress,181.23
+L0612,Bugis Junction,Environmental,2020-07-15 12:46:14,Informational,Closed,180.74
+L0914,Canberra,Environmental,2020-07-15 13:45:55,Informational,In Progress,202.98
+L0810,Canberra,Power-related,2020-07-15 15:23:48,Medium,Resolved,203.4
+L0178,Toa Payoh,Communication,2020-07-17 19:31:57,Low,Detected,92.85
+L0127,Chinatown,Cybersecurity,2020-07-18 05:34:07,Critical,Resolved,362.89
+L0596,Jurong West,Control system,2020-07-19 12:41:27,Informational,In Progress,488.18
+L0275,Jurong West,Control system,2020-07-20 13:54:18,Critical,Resolved,91.44
+L0478,Toa Payoh,Environmental,2020-07-20 19:38:08,Low,Detected,155.68
+L0557,Canberra,Cybersecurity,2020-07-21 22:40:31,Critical,Detected,
+L0622,Toa Payoh,Communication,2020-07-26 10:18:05,Low,Acknowledged,429.22
+L0647,Toa Payoh,Sensor-related,2020-07-27 09:28:20,High,Resolved,383.33
+L0251,Toa Payoh,Communication,2020-07-28 22:36:38,High,In Progress,386.15
+L0162,Outram Park,Control system,2020-07-30 15:30:25,High,In Progress,292.95
+L0592,Orchard Road,Cybersecurity,2020-07-30 21:38:15,Low,Acknowledged,278.52
+L0251,Toa Payoh,Control system,2020-07-31 20:34:12,Critical,Detected,254.59
+L0479,Bugis Junction,Communication,2020-08-01 08:28:21,Informational,Acknowledged,
+L0480,Jurong West,Control system,2020-08-02 10:36:36,Informational,Resolved,339.35
+L0579,Outram Park,Control system,2020-08-02 23:30:10,High,Closed,438.26
+L0173,Jurong West,Power-related,2020-08-03 00:24:12,Medium,In Progress,182.24
+L0831,Chinatown,Control system,2020-08-03 01:17:15,Informational,Closed,335.79
+L0893,Jurong West,Power-related,2020-08-03 23:31:23,High,Resolved,262.97
+L0704,Chinatown,Environmental,2020-08-07 03:24:42,Informational,Detected,
+L0539,City Hall,Power-related,2020-08-07 15:44:30,High,Detected,295.22
+L0325,Jurong West,Sensor-related,2020-08-08 01:46:12,Low,In Progress,401.22
+L0336,Bugis Junction,Power-related,2020-08-09 01:16:53,Low,Closed,274.82
+L0424,Bishan,Cybersecurity,2020-08-11 06:40:23,Informational,Detected,341.7
+L0860,Pasir Ris,Control system,2020-08-11 10:46:58,Critical,Detected,232.12
+L0887,Toa Payoh,Control system,2020-08-12 00:31:49,High,Closed,297.18
+L0355,City Hall,Power-related,2020-08-12 08:34:53,High,Detected,488.3
+L0943,Pasir Ris,Power-related,2020-08-13 05:00:06,Low,In Progress,205.24
+L0639,Canberra,Environmental,2020-08-15 06:44:38,Low,Acknowledged,117.0
+L0418,Bugis Junction,Sensor-related,2020-08-15 17:20:30,Critical,In Progress,
+L0008,Outram Park,Communication,2020-08-15 20:20:57,Informational,Closed,
+L0640,Jurong West,Communication,2020-08-17 03:49:26,Medium,Closed,116.81
+L0326,Outram Park,Control system,2020-08-17 07:17:48,High,Acknowledged,337.78
+L0600,Bugis Junction,Power-related,2020-08-20 00:45:16,Informational,Resolved,126.91
+L0007,Bishan,Sensor-related,2020-08-20 00:51:24,High,Acknowledged,347.86
+L0945,Orchard Road,Cybersecurity,2020-08-20 13:00:36,High,Closed,300.0
+L0030,Jurong West,Control system,2020-08-21 03:46:23,Critical,Detected,324.22
+L0809,Bishan,Control system,2020-08-21 10:19:50,Low,In Progress,
+L0518,City Hall,Communication,2020-08-21 18:17:58,Medium,In Progress,
+L0343,Jurong West,Control system,2020-08-22 01:11:57,Low,In Progress,461.4
+L0800,Jurong West,Power-related,2020-08-23 02:09:53,Critical,Closed,245.25
+L0208,Orchard Road,Environmental,2020-08-23 14:06:32,High,Acknowledged,252.48
+L0170,Pasir Ris,Sensor-related,2020-08-23 19:38:12,Critical,Detected,340.92
+L0595,Toa Payoh,Cybersecurity,2020-08-25 19:32:02,Medium,Closed,479.81
+L0196,Orchard Road,Cybersecurity,2020-08-26 19:44:57,Low,Resolved,465.75
+L0234,Toa Payoh,Environmental,2020-08-27 09:10:15,Low,Resolved,365.45
+L0796,Canberra,Communication,2020-08-27 19:29:11,High,Acknowledged,
+L0833,Bishan,Communication,2020-08-27 22:18:24,Low,Acknowledged,481.61
+L0923,Pasir Ris,Sensor-related,2020-08-27 23:15:20,Low,Acknowledged,
+L0003,Pasir Ris,Power-related,2020-08-28 05:58:42,High,Detected,97.45
+L0058,Outram Park,Power-related,2020-08-28 21:34:48,Low,Resolved,377.36
+L0875,Chinatown,Environmental,2020-08-29 08:21:14,High,Acknowledged,230.9
+L0646,Orchard Road,Communication,2020-08-31 09:06:04,Medium,Detected,
+L0137,Jurong West,Communication,2020-08-31 14:43:29,Medium,Resolved,266.6
+L0829,Chinatown,Control system,2020-08-31 22:09:30,Medium,In Progress,266.43
+L0275,Jurong West,Communication,2020-09-03 00:51:41,Critical,Resolved,327.43
+L0508,Jurong West,Communication,2020-09-06 01:03:40,High,Acknowledged,173.14
+L0337,Chinatown,Power-related,2020-09-06 10:32:03,High,Detected,422.1
+L0091,Pasir Ris,Sensor-related,2020-09-07 02:40:25,Critical,In Progress,494.08
+L0972,Toa Payoh,Cybersecurity,2020-09-07 02:40:57,Low,Resolved,362.91
+L0472,Orchard Road,Power-related,2020-09-07 11:42:48,Informational,Closed,
+L0662,Canberra,Environmental,2020-09-08 01:20:47,Critical,In Progress,187.9
+L0501,Canberra,Cybersecurity,2020-09-08 04:03:19,Critical,Detected,297.77
+L0259,Chinatown,Control system,2020-09-11 17:17:17,High,In Progress,
+L0859,Orchard Road,Sensor-related,2020-09-11 21:55:34,Low,In Progress,478.84
+L0648,Outram Park,Environmental,2020-09-13 21:02:53,Critical,Resolved,86.89
+L0736,Pasir Ris,Sensor-related,2020-09-16 14:02:48,Medium,Acknowledged,92.81
+L0161,Pasir Ris,Environmental,2020-09-16 19:02:13,Informational,Resolved,428.45
+L0654,Toa Payoh,Sensor-related,2020-09-17 01:58:25,High,Resolved,309.97
+L0400,Pasir Ris,Sensor-related,2020-09-17 15:23:06,Informational,Closed,
+L0885,Orchard Road,Power-related,2020-09-17 22:26:40,Medium,Acknowledged,91.15
+L0576,Bishan,Cybersecurity,2020-09-19 07:08:10,Informational,Acknowledged,225.56
+L0631,Jurong West,Cybersecurity,2020-09-19 13:43:29,Informational,Acknowledged,436.36
+L0377,Pasir Ris,Cybersecurity,2020-09-20 09:14:12,Medium,Acknowledged,465.39
+L0921,Bugis Junction,Communication,2020-09-21 14:10:42,Critical,Resolved,255.77
+L0408,Chinatown,Cybersecurity,2020-09-25 16:39:04,Informational,Acknowledged,401.24
+L0149,Chinatown,Environmental,2020-09-26 21:50:33,High,Closed,143.28
+L0515,Orchard Road,Control system,2020-09-29 09:37:43,High,Resolved,
+L0882,Pasir Ris,Cybersecurity,2020-10-01 01:45:36,Low,Resolved,367.86
+L0909,City Hall,Cybersecurity,2020-10-01 08:35:15,Informational,Resolved,335.3
+L0283,Pasir Ris,Sensor-related,2020-10-02 02:27:39,Medium,Resolved,72.45
+L0294,Toa Payoh,Control system,2020-10-02 09:45:13,High,Closed,79.4
+L0643,Canberra,Sensor-related,2020-10-02 12:07:35,High,Resolved,229.37
+L0143,Bugis Junction,Communication,2020-10-02 13:24:41,Medium,Acknowledged,
+L0900,Jurong West,Power-related,2020-10-02 13:32:33,High,Closed,468.0
+L0592,Orchard Road,Control system,2020-10-03 04:33:48,Low,Acknowledged,370.9
+L0944,Pasir Ris,Cybersecurity,2020-10-05 07:04:31,Medium,Resolved,54.73
+L0212,Chinatown,Environmental,2020-10-05 12:02:46,Medium,Detected,89.14
+L0540,Chinatown,Communication,2020-10-06 21:44:21,Low,Detected,151.39
+L0871,Canberra,Cybersecurity,2020-10-07 01:05:17,Medium,Acknowledged,417.43
+L0858,Bishan,Cybersecurity,2020-10-08 02:12:25,Informational,In Progress,330.6
+L0826,Jurong West,Communication,2020-10-08 03:59:53,Medium,Detected,92.45
+L0265,Outram Park,Environmental,2020-10-08 17:32:25,Informational,In Progress,53.73
+L0450,Bugis Junction,Environmental,2020-10-09 01:56:07,Informational,Closed,80.85
+L0416,Chinatown,Sensor-related,2020-10-09 08:44:32,Medium,Acknowledged,200.74
+L0365,Bugis Junction,Environmental,2020-10-09 13:43:18,Low,Acknowledged,212.03
+L0525,Pasir Ris,Control system,2020-10-11 20:19:54,Critical,Resolved,254.06
+L0425,Pasir Ris,Control system,2020-10-12 12:55:53,High,Acknowledged,89.28
+L0880,Orchard Road,Power-related,2020-10-13 16:10:02,Low,Detected,61.94
+L0415,Bugis Junction,Environmental,2020-10-14 07:31:16,Critical,Resolved,486.34
+L0012,Orchard Road,Environmental,2020-10-15 08:46:39,Critical,Resolved,309.53
+L0386,Bugis Junction,Power-related,2020-10-17 04:57:13,Critical,Acknowledged,478.32
+L0068,Chinatown,Power-related,2020-10-17 20:09:31,Low,Detected,456.18
+L0387,Pasir Ris,Sensor-related,2020-10-17 21:00:56,High,Resolved,194.22
+L0704,Chinatown,Cybersecurity,2020-10-19 10:34:13,Low,In Progress,66.44
+L0909,City Hall,Cybersecurity,2020-10-21 11:38:34,High,Acknowledged,452.91
+L0581,Orchard Road,Communication,2020-10-21 21:46:31,High,Acknowledged,421.57
+L0316,Chinatown,Cybersecurity,2020-10-21 22:02:59,Medium,Resolved,438.39
+L0994,Bugis Junction,Cybersecurity,2020-10-21 23:41:41,Medium,Closed,499.66
+L0759,Pasir Ris,Communication,2020-10-22 09:31:52,Low,Detected,496.04
+L0634,Orchard Road,Control system,2020-10-22 14:50:32,Low,Closed,264.21
+L0635,Bishan,Sensor-related,2020-10-23 06:40:27,High,Closed,333.22
+L0807,Bishan,Control system,2020-10-26 02:17:57,Informational,In Progress,124.19
+L0338,Chinatown,Communication,2020-10-26 18:02:04,High,Acknowledged,330.0
+L0165,Toa Payoh,Sensor-related,2020-10-28 20:54:02,Informational,Resolved,263.5
+L0868,Toa Payoh,Cybersecurity,2020-10-29 11:11:42,Critical,Acknowledged,241.8
+L0721,Outram Park,Communication,2020-10-30 00:17:55,High,In Progress,388.53
+L0912,Bugis Junction,Environmental,2020-10-30 14:01:30,Critical,Detected,318.93
+L0102,Canberra,Environmental,2020-11-03 13:34:33,High,Closed,414.99
+L0834,Orchard Road,Sensor-related,2020-11-03 23:05:40,Low,Closed,429.3
+L0462,Chinatown,Communication,2020-11-04 13:58:40,Low,Detected,89.63
+L0274,Bugis Junction,Cybersecurity,2020-11-07 09:13:48,High,Resolved,352.8
+L0648,Outram Park,Control system,2020-11-07 12:14:12,Medium,In Progress,118.41
+L0776,Pasir Ris,Power-related,2020-11-08 10:32:31,High,Resolved,437.24
+L0208,Orchard Road,Sensor-related,2020-11-08 13:58:02,High,In Progress,
+L0142,Orchard Road,Power-related,2020-11-10 21:02:15,High,In Progress,371.15
+L0748,Orchard Road,Control system,2020-11-11 06:51:14,Informational,Resolved,264.53
+L0362,Pasir Ris,Communication,2020-11-11 18:16:06,Low,Resolved,70.83
+L0744,Canberra,Cybersecurity,2020-11-12 11:45:10,High,Acknowledged,328.78
+L0169,Orchard Road,Communication,2020-11-13 03:43:32,Critical,Detected,498.14
+L0364,Chinatown,Sensor-related,2020-11-14 06:42:31,Critical,Acknowledged,346.2
+L1000,Toa Payoh,Power-related,2020-11-15 21:18:20,Informational,Acknowledged,191.22
+L0730,Outram Park,Communication,2020-11-16 00:38:24,High,Resolved,293.75
+L0903,City Hall,Power-related,2020-11-17 22:54:15,Medium,Detected,173.41
+L0635,Bishan,Power-related,2020-11-18 15:18:59,Medium,Acknowledged,125.19
+L0250,Orchard Road,Cybersecurity,2020-11-21 05:19:02,Informational,Resolved,
+L0317,Canberra,Environmental,2020-11-22 03:43:43,Critical,Acknowledged,
+L0417,City Hall,Sensor-related,2020-11-22 12:48:31,Low,Detected,377.0
+L0651,Jurong West,Environmental,2020-11-22 21:05:19,High,Acknowledged,177.19
+L0809,Bishan,Communication,2020-11-23 03:56:36,Critical,In Progress,496.14
+L0415,Bugis Junction,Sensor-related,2020-11-23 06:59:17,Low,Closed,218.05
+L0461,Bugis Junction,Environmental,2020-11-23 21:19:16,Informational,In Progress,386.97
+L0299,Jurong West,Communication,2020-11-23 23:10:00,Informational,Resolved,458.67
+L0822,Bugis Junction,Communication,2020-11-28 09:03:13,Critical,In Progress,340.47
+L0181,Orchard Road,Sensor-related,2020-11-28 14:36:28,Medium,Resolved,433.5
+L0011,Orchard Road,Control system,2020-11-30 22:26:35,Medium,Detected,338.83
+L0844,Pasir Ris,Control system,2020-12-01 15:32:40,High,Closed,404.74
+L0397,City Hall,Communication,2020-12-01 18:19:25,Critical,Closed,
+L0917,Bishan,Power-related,2020-12-02 10:01:51,Critical,Resolved,497.19
+L0796,Canberra,Control system,2020-12-04 02:31:06,Medium,Acknowledged,127.44
+L0943,Pasir Ris,Environmental,2020-12-05 13:37:21,Informational,In Progress,59.48
+L0687,Chinatown,Control system,2020-12-06 00:50:21,High,In Progress,454.06
+L0154,Chinatown,Sensor-related,2020-12-06 18:53:44,Medium,Resolved,73.61
+L0309,Bugis Junction,Environmental,2020-12-09 13:06:25,Medium,Detected,216.52
+L0251,Toa Payoh,Control system,2020-12-14 15:44:02,Medium,Acknowledged,116.5
+L0017,Canberra,Power-related,2020-12-15 02:18:27,Medium,Closed,268.0
+L0324,City Hall,Communication,2020-12-19 01:23:41,Informational,Resolved,468.47
+L0378,Bishan,Environmental,2020-12-19 10:41:41,Medium,Resolved,238.76
+L0158,Orchard Road,Control system,2020-12-19 11:18:47,Medium,Detected,102.29
+L0663,Canberra,Power-related,2020-12-19 14:49:52,High,Acknowledged,415.17
+L0129,Canberra,Communication,2020-12-19 19:30:36,Medium,Acknowledged,237.27
+L0802,Chinatown,Communication,2020-12-19 19:52:53,High,Resolved,
+L0301,Bishan,Cybersecurity,2020-12-21 08:47:28,Critical,Detected,110.99
+L0590,Bishan,Sensor-related,2020-12-22 03:21:03,Low,In Progress,341.95
+L0334,Bishan,Sensor-related,2020-12-22 07:58:13,High,Detected,443.11
+L0949,Chinatown,Cybersecurity,2020-12-22 17:56:29,Informational,Resolved,214.25
+L0438,Jurong West,Communication,2020-12-23 06:34:03,Medium,Detected,499.51
+L0494,Toa Payoh,Control system,2020-12-24 01:55:15,High,Resolved,198.54
+L0395,Bugis Junction,Environmental,2020-12-25 07:01:48,Informational,In Progress,271.17
+L0834,Orchard Road,Communication,2020-12-25 21:50:26,Low,Resolved,180.01
+L0998,Pasir Ris,Sensor-related,2020-12-27 01:04:14,Informational,Acknowledged,
+L0657,Bugis Junction,Environmental,2020-12-28 02:09:04,Medium,Resolved,481.75
+L0553,Canberra,Communication,2020-12-28 04:19:40,Critical,Acknowledged,
+L0756,Bugis Junction,Control system,2020-12-28 05:03:09,Low,Acknowledged,165.23
+L0751,Bugis Junction,Environmental,2020-12-29 07:39:04,Informational,Detected,270.35
+L0112,Orchard Road,Environmental,2020-12-29 13:55:53,Informational,Detected,164.95
